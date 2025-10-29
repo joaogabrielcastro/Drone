@@ -1,3 +1,3 @@
 # Drone
 
-APS faculdade.
+APS faculdade
