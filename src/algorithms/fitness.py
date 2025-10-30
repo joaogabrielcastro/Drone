@@ -27,10 +27,8 @@ class FitnessFunction:
         
         fitness = custo_componente + tempo_componente + penalidades_componente
         
-        # Bônus por usar menos dias
-        if individuo.dias_utilizados <= 3:
-            fitness *= 0.9  # 10% de desconto
-        elif individuo.dias_utilizados >= 6:
+        # Penalidade por muitos dias utilizados
+        if individuo.dias_utilizados >= 6:
             fitness *= 1.1  # 10% de acréscimo
         
         return fitness

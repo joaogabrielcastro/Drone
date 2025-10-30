@@ -79,6 +79,14 @@ class Individuo:
                 self._processar_recarga(origem, dia_atual, hora_atual)
                 bateria_atual = self.drone.calcular_autonomia(36)
                 self.numero_pousos += 1
+                # Avançar o tempo pela duração da recarga (em minutos)
+                hora_atual += Config.TEMPO_RECARGA
+
+                # Se a recarga empurrar além do horário de operação, dormir até o próximo dia
+                if hora_atual >= Config.HORA_FIM and dia_atual < Config.DIAS_MAXIMOS:
+                    dia_atual += 1
+                    hora_atual = Config.HORA_INICIO
+                    print(f"   ⏰ Dia {dia_atual} - Recarregando durante a noite (após recarga)")
             
             # Executar trecho
             bateria_atual -= trecho.consumo_bateria
