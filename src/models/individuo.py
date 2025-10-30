@@ -64,8 +64,8 @@ class Individuo:
                 hora_atual = Config.HORA_INICIO
                 print(f"   ⏰ Dia {dia_atual} - Recarregando durante a noite")
             
-            # Escolher velocidade para este trecho
-            velocidade = self._escolher_velocidade_otima(origem, destino, bateria_atual)
+            # Escolher velocidade para este trecho (considera vento e bateria)
+            velocidade = self._escolher_velocidade_otima(origem, destino, bateria_atual, dia_atual, hora_atual)
             
             # Obter vento atual
             vento = self.gerenciador_vento.get_vento(dia_atual, hora_atual)
@@ -97,13 +97,62 @@ class Individuo:
         
         self.dias_utilizados = dia_atual
     
-    def _escolher_velocidade_otima(self, origem, destino, bateria_atual):
-        """Escolhe velocidade que minimize tempo dentro das restrições de bateria"""
+    def _escolher_velocidade_otima(self, origem, destino, bateria_atual, dia, hora):
+        """Escolhe velocidade que minimize tempo dentro das restrições de bateria.
+
+        A estratégia atual é testar todas as velocidades válidas e escolher a
+        que produz o menor tempo de voo (considerando vento) sem exigir
+        recarga antes do trecho. Se nenhuma velocidade for viável, retorna
+        a velocidade mínima (forçando a recarga depois).
+        """
+        from ..models.trecho import Trecho
+
         velocidades_validas = self.drone.get_velocidades_validas()
-        
-        # Por enquanto, usa velocidade mínima (mais econômica)
-        # Futuramente implementar lógica de otimização
-        return 36
+
+        # Obter vento no momento (mesma chamada que será usada ao criar o trecho)
+        vento = self.gerenciador_vento.get_vento(dia, hora)
+
+        melhor_velocidade = None
+        menor_tempo = float('inf')
+
+        # Heurística: custo = alpha * tempo + beta * consumo (ambos em segundos)
+        alpha = Config.HEURISTICA_ALPHA
+        beta = Config.HEURISTICA_BETA
+
+        for v in velocidades_validas:
+            try:
+                trecho = Trecho(origem, destino, v, dia, hora, vento['velocidade'], vento['direcao'])
+            except Exception:
+                # Se cálculo do trecho falhar (ex: divisão por zero), pular essa velocidade
+                continue
+
+            # Se precisa recarregar antes do trecho, não é viável nessa velocidade
+            if trecho.precisa_recarregar(bateria_atual):
+                continue
+
+
+            # Normalizar termos:
+            # - tempo em minutos (mais intuitivo que segundos)
+            # - consumo em porcentagem da autonomia disponível na velocidade v
+            tempo_min = trecho.tempo_voo_segundos / 60.0
+            try:
+                autonomia_v = self.drone.calcular_autonomia(v)
+                consumo_percent = (trecho.consumo_bateria / autonomia_v) * 100.0
+            except Exception:
+                consumo_percent = float('inf')
+
+            # Custo linear com termos normalizados
+            custo = alpha * tempo_min + beta * consumo_percent
+
+            if custo < menor_tempo:
+                menor_tempo = custo
+                melhor_velocidade = v
+
+        # Se nenhuma velocidade foi viável, retorna velocidade mínima (forçar recarga)
+        if melhor_velocidade is None:
+            return self.drone.config.VELOCIDADE_MINIMA
+
+        return melhor_velocidade
     
     def _processar_recarga(self, coordenada, dia, hora):
         """Processa recarga da bateria"""

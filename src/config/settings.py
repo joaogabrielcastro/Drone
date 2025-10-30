@@ -22,3 +22,6 @@ class Config:
     # Projeto
     DIAS_MAXIMOS = 7
     CEP_INICIAL = "82821020"  # Unibrasil
+    # Heurística para escolha de velocidade: custo = ALPHA * tempo + BETA * consumo
+    HEURISTICA_ALPHA = 1.0
+    HEURISTICA_BETA = 0.0
