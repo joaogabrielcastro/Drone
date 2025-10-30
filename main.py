@@ -13,8 +13,8 @@ def main():
     
     # Configurações
     ARQUIVO_COORDENADAS = "data/coordenadas.csv"
-    TAMANHO_POPULACAO = 30  # Reduzido para testes
-    NUMERO_GERACOES = 50    # Reduzido para testes
+    TAMANHO_POPULACAO = 30
+    NUMERO_GERACOES = 50
     
     # Carregar dados
     coordenadas = carregar_coordenadas(ARQUIVO_COORDENADAS)
@@ -29,23 +29,29 @@ def main():
     simulador = Simulador(drone, vento)
     exporter = CSVExporter()
     
-    print(f"🧬 Executando algoritmo genético ({NUMERO_GERACOES} gerações)...")
+    print(f"🧬 Executando algoritmo genético...")
+    print(f"📊 {NUMERO_GERACOES} gerações | {TAMANHO_POPULACAO} indivíduos por geração")
+    print(f"🌬️  Sistema de vento carregado")
+    
+    print("=" * 50)
     
     # Executar algoritmo genético
     for geracao in range(NUMERO_GERACOES):
         stats = algoritmo.executar_geracao()
         
-        if geracao % 10 == 0:
-            print(f"   📊 Geração {geracao}: "
-                  f"Melhor = {stats['melhor_fitness']:.2f}, "
-                  f"Médio = {stats['fitness_medio']:.2f}, "
-                  f"Viáveis = {stats['taxa_viabilidade']:.1f}%")
+        # Mostrar progresso a cada geração
+        print(f"📍 Geração {geracao + 1:02d}/{NUMERO_GERACOES} - "
+              f"Melhor: {stats['melhor_fitness']:.2f} | "
+              f"Médio: {stats['fitness_medio']:.2f} | "
+              f"Viáveis: {stats['taxa_viabilidade']:.1f}%")
     
     # Resultados
     melhor = algoritmo.get_melhor_individuo()
     historico = algoritmo.get_historico()
     
-    print(f"\n🎯 MELHOR SOLUÇÃO ENCONTRADA:")
+    print("\n" + "=" * 50)
+    print("🎯 RESULTADOS FINAIS:")
+    print("=" * 50)
     print(f"   • Fitness: {melhor.fitness:.2f}")
     print(f"   • Distância: {melhor.distancia_total:.1f} km")
     print(f"   • Tempo: {melhor.tempo_total:.1f} min")
@@ -64,7 +70,7 @@ def main():
     exporter.exportar_rota_completa(melhor)
     exporter.exportar_resumo(melhor, historico)
     
-    print(f"\n✅ Etapa 2 concluída com sucesso!")
+    print(f"\n✅ Execução concluída com sucesso!")
 
 if __name__ == "__main__":
     main()
