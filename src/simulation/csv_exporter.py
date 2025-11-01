@@ -41,9 +41,21 @@ class CSVExporter:
             writer.writerow(cabecalho)
             
             # Dados dos trechos - SOBRESCREVE todo o conteúdo
+            # Build a quick lookup of recargas by (dia, cep, hora) to mark pousos
+            recargas = set()
+            for r in getattr(individuo, 'lista_recargas', []):
+                # r: (dia, hora_minutos, cep, taxa_bool)
+                recargas.add((r[0], r[2], r[1]))
+
             for trecho in individuo.trechos:
-                pouso = "SIM" if trecho.precisa_recarregar(0) else "NÃO"
-                
+                # Try to match a recarga at this origin by day/hora with small tolerance
+                matched = False
+                for r_dia, r_cep, r_hora in recargas:
+                    if r_cep == trecho.origem.cep and r_dia == trecho.dia and abs(r_hora - trecho.hora_partida) <= 3:
+                        matched = True
+                        break
+                pouso = "SIM" if matched else "NÃO"
+
                 linha = [
                     trecho.origem.cep,
                     trecho.origem.latitude,
@@ -87,6 +99,10 @@ class CSVExporter:
             writer.writerow(['Dias utilizados', individuo.dias_utilizados])
             writer.writerow(['Fitness final', f"{individuo.fitness:.2f}"])
             writer.writerow(['Viabilidade', 'SIM' if individuo.viabilidade else 'NÃO'])
+            # Alertas gerados durante a simulação
+            writer.writerow(['Alertas', '; '.join(getattr(individuo, 'alertas', []))])
+            # Registrar número de pousos atrasados
+            writer.writerow(['Pousos atrasados (detalhe)', len(getattr(individuo, 'pousos_atrasados', []))])
             
             # Adicionar métricas da evolução
             if historico_metricas:
@@ -98,6 +114,22 @@ class CSVExporter:
         
         print(f"✅ Arquivo atualizado: {caminho_completo}")
         return caminho_completo
+
+    def exportar_recargas_detalhadas(self, individuo):
+        """Exporta um CSV com todas as recargas detalhadas: dia, hora, cep, taxa, pouso_atrasado"""
+        caminho = os.path.join(self.diretorio_saida, 'recargas_detalhadas.csv')
+        recs = getattr(individuo, 'lista_recargas', [])
+
+        with open(caminho, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.writer(f)
+            writer.writerow(['dia', 'hora', 'cep', 'taxa_bool', 'pouso_atrasado'])
+            atrasados = { (d,h,cep) : True for (d,h,cep,_) in getattr(individuo, 'pousos_atrasados', []) }
+            for (d, h, cep, taxa) in recs:
+                key = (d, h, cep)
+                writer.writerow([d, self._formatar_hora_csv(h), cep, 'SIM' if taxa else 'NÃO', 'SIM' if atrasados.get(key, False) else 'NÃO'])
+
+        print(f"✅ Arquivo atualizado: {caminho}")
+        return caminho
     
     def exportar_metricas_evolucao(self, historico_metricas):
         """Exporta métricas de evolução - SOBRESCREVE metricas_evolucao.csv se existir"""

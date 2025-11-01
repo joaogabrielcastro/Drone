@@ -1,12 +1,14 @@
 PARÂMETRO,VALOR
-Data execução,2025-10-29 22:04:04
+Data execução,2025-10-31 23:45:29
 Total pontos,375
-Distância total (km),3663.27
-Tempo total (min),2921.25
-Custo total (R$),3440.00
-Número de pousos,78
-Dias utilizados,4
-Fitness final,4732.12
+Distância total (km),3270.87
+Tempo total (min),3816.13
+Custo total (R$),560.00
+Número de pousos,50
+Dias utilizados,7
+Fitness final,4560.00
 Viabilidade,SIM
-Melhoria (%),17.4
-Gerações executadas,10
+Alertas,"Pouso com taxa tarde: dia 1, hora 1084 min, CEP 82840140; Pouso com taxa tarde: dia 2, hora 1062 min, CEP 82700540; Pouso com taxa tarde: dia 3, hora 1044 min, CEP 82520150; Pouso com taxa tarde: dia 4, hora 1036 min, CEP 81570360; Pouso com taxa tarde: dia 5, hora 1119 min, CEP 81880380; Pouso com taxa tarde: dia 6, hora 1086 min, CEP 81210070; Pouso com taxa tarde: dia 7, hora 1062 min, CEP 81170065"
+Pousos atrasados (detalhe),0
+Melhoria (%),97.8
+Gerações executadas,50

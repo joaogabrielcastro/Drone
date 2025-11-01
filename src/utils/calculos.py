@@ -63,24 +63,32 @@ def calcular_velocidade_efetiva(velocidade_drone, direcao_voo, vento_velocidade,
     Implementação baseada no exemplo do PDF
     """
     # Converter direções para ângulos em radianos
+    # direcao_voo e vento_direcao são ângulos em graus medidos a partir do Norte,
+    # no sentido horário. O gerenciador de vento fornece a direção DE ONDE o vento
+    # vem (convenção meteorológica), então somamos 180° para obter a direção
+    # PARA ONDE o vento aponta (vetor velocidade do vento).
     angulo_voo_rad = math.radians(direcao_voo)
+    # Aqui assumimos que 'vento_direcao' já representa a direção PARA ONDE o vento aponta
+    # (tipo vetor). Se o seu gerenciador de vento fornece a direção de ONDE o vento vem,
+    # converta adicionando 180° antes de chamar esta função.
     angulo_vento_rad = math.radians(vento_direcao)
-    
-    # Componentes do drone
-    v_drone_x = velocidade_drone * math.sin(angulo_voo_rad)
-    v_drone_y = velocidade_drone * math.cos(angulo_voo_rad)
-    
-    # Componentes do vento
+
+    # Componentes do vento (vetor apontando para a direção fornecida)
     v_vento_x = vento_velocidade * math.sin(angulo_vento_rad)
     v_vento_y = vento_velocidade * math.cos(angulo_vento_rad)
-    
-    # Velocidade efetiva (solo)
-    v_efetiva_x = v_drone_x + v_vento_x
-    v_efetiva_y = v_drone_y + v_vento_y
-    
-    # Magnitude da velocidade efetiva
-    v_efetiva = math.sqrt(v_efetiva_x**2 + v_efetiva_y**2)
-    
+
+    # Projeção do vento ao longo da direção do voo (produto escalar)
+    # unitário da direção do voo é (sin(angulo_voo), cos(angulo_voo))
+    v_vento_proj = v_vento_x * math.sin(angulo_voo_rad) + v_vento_y * math.cos(angulo_voo_rad)
+
+    # Velocidade efetiva ao longo do trajeto = velocidade do drone (no ar) +
+    # componente do vento na direção do voo.
+    v_efetiva = velocidade_drone + v_vento_proj
+
+    # Proteção: não permitir velocidade efetiva não-positiva (evita divisão por zero)
+    if v_efetiva <= 0:
+        v_efetiva = 0.1
+
     return v_efetiva
 
 def cardinal_para_angulo(cardinal):

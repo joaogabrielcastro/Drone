@@ -32,7 +32,10 @@ class Trecho:
         )
         
         # Velocidade efetiva com vento
-        angulo_vento = cardinal_para_angulo(self.vento_direcao)
+        # O gerenciador de vento guarda a direção de ONDE o vento vem (cardinal).
+        # Converter para ângulo e transformar em direção PARA ONDE o vento aponta
+        # somando 180° (convenção meteorológica).
+        angulo_vento = (cardinal_para_angulo(self.vento_direcao) + 180.0) % 360.0
         self.velocidade_efetiva = calcular_velocidade_efetiva(
             self.velocidade, self.direcao_voo, 
             self.vento_velocidade, angulo_vento

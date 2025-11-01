@@ -33,11 +33,10 @@ class Simulador:
                 dia_atual = trecho.dia
                 self._adicionar_log(f"📅 Dia {dia_atual} - Continuando às {self._formatar_hora(hora_atual)}")
             
-            # Verificar recarga
+            # Verificar recarga (não mutamos o Indivíduo; usamos contador local para logs)
             if trecho.precisa_recarregar(bateria_atual):
                 self._adicionar_log(f"⚡ RECARGA em {trecho.origem.cep} - R$80,00")
                 bateria_atual = self.drone.calcular_autonomia(36)
-                individuo.numero_pousos += 1
             
             # Executar trecho
             self._adicionar_log(

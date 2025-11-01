@@ -69,6 +69,11 @@ def main():
     print(f"\n💾 Exportando resultados...")
     exporter.exportar_rota_completa(melhor)
     exporter.exportar_resumo(melhor, historico)
+    # Exportar detalhamento de recargas (cada recarga: dia, hora, cep, taxa_bool, pouso_atrasado)
+    try:
+        exporter.exportar_recargas_detalhadas(melhor)
+    except Exception:
+        print("⚠️ Falha ao exportar recargas detalhadas")
     
     print(f"\n✅ Execução concluída com sucesso!")
 

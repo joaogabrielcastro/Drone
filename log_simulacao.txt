@@ -1,799 +1,813 @@
 === SIMULAÇÃO DA ROTA ===
 Indivíduo: 375 pontos
-Fitness: 4732.12
+Fitness: 4560.00
 📅 Dia 1 - Iniciando às 06:00
-➡️  Trecho 1: 82821020 → 82650060 | Vel: 96km/h | Dist: 5.4km | Tempo: 205s | Bateria: 77.5min
-   📸 Fotografando 82650060 (+72s)
-➡️  Trecho 2: 82650060 → 82860360 | Vel: 96km/h | Dist: 4.8km | Tempo: 154s | Bateria: 74.1min
-   📸 Fotografando 82860360 (+72s)
-➡️  Trecho 3: 82860360 → 82310433 | Vel: 96km/h | Dist: 18.6km | Tempo: 846s | Bateria: 71.5min
-   📸 Fotografando 82310433 (+72s)
-➡️  Trecho 4: 82310433 → 80310110 | Vel: 96km/h | Dist: 6.9km | Tempo: 231s | Bateria: 57.4min
-   📸 Fotografando 80310110 (+72s)
-➡️  Trecho 5: 80310110 → 81070310 | Vel: 96km/h | Dist: 1.8km | Tempo: 70s | Bateria: 53.6min
-   📸 Fotografando 81070310 (+72s)
-➡️  Trecho 6: 81070310 → 81570010 | Vel: 96km/h | Dist: 7.0km | Tempo: 226s | Bateria: 52.4min
-   📸 Fotografando 81570010 (+72s)
-➡️  Trecho 7: 81570010 → 81850650 | Vel: 96km/h | Dist: 7.5km | Tempo: 303s | Bateria: 48.6min
-   📸 Fotografando 81850650 (+72s)
-➡️  Trecho 8: 81850650 → 80330120 | Vel: 96km/h | Dist: 10.3km | Tempo: 403s | Bateria: 43.6min
-   📸 Fotografando 80330120 (+72s)
-➡️  Trecho 9: 80330120 → 81452334 | Vel: 96km/h | Dist: 5.8km | Tempo: 262s | Bateria: 36.9min
-   📸 Fotografando 81452334 (+72s)
-➡️  Trecho 10: 81452334 → 81030370 | Vel: 96km/h | Dist: 8.1km | Tempo: 259s | Bateria: 32.5min
-   📸 Fotografando 81030370 (+72s)
-➡️  Trecho 11: 81030370 → 81470340 | Vel: 96km/h | Dist: 11.7km | Tempo: 510s | Bateria: 28.2min
-   📸 Fotografando 81470340 (+72s)
-➡️  Trecho 12: 81470340 → 80520550 | Vel: 96km/h | Dist: 20.3km | Tempo: 680s | Bateria: 19.7min
-   📸 Fotografando 80520550 (+72s)
-➡️  Trecho 13: 80520550 → 82115020 | Vel: 96km/h | Dist: 2.2km | Tempo: 83s | Bateria: 8.3min
-   📸 Fotografando 82115020 (+72s)
-⚡ RECARGA em 82115020 - R$80,00
-➡️  Trecho 14: 82115020 → 81490620 | Vel: 36km/h | Dist: 25.8km | Tempo: 3083s | Bateria: 77.5min
-   📸 Fotografando 81490620 (+72s)
-➡️  Trecho 15: 81490620 → 81110522 | Vel: 96km/h | Dist: 12.3km | Tempo: 411s | Bateria: 26.1min
-   📸 Fotografando 81110522 (+72s)
-➡️  Trecho 16: 81110522 → 82700410 | Vel: 96km/h | Dist: 15.6km | Tempo: 524s | Bateria: 19.3min
-   📸 Fotografando 82700410 (+72s)
-➡️  Trecho 17: 82700410 → 81670110 | Vel: 96km/h | Dist: 13.8km | Tempo: 545s | Bateria: 10.5min
-   📸 Fotografando 81670110 (+72s)
-⚡ RECARGA em 81670110 - R$80,00
-➡️  Trecho 18: 81670110 → 81935303 | Vel: 36km/h | Dist: 6.5km | Tempo: 800s | Bateria: 77.5min
-   📸 Fotografando 81935303 (+72s)
-➡️  Trecho 19: 81935303 → 81710590 | Vel: 96km/h | Dist: 5.9km | Tempo: 202s | Bateria: 64.2min
-   📸 Fotografando 81710590 (+72s)
-➡️  Trecho 20: 81710590 → 80045160 | Vel: 96km/h | Dist: 8.8km | Tempo: 306s | Bateria: 60.8min
-   📸 Fotografando 80045160 (+72s)
-➡️  Trecho 21: 80045160 → 81200160 | Vel: 96km/h | Dist: 6.5km | Tempo: 298s | Bateria: 55.7min
-   📸 Fotografando 81200160 (+72s)
-➡️  Trecho 22: 81200160 → 82010390 | Vel: 96km/h | Dist: 0.8km | Tempo: 34s | Bateria: 50.7min
-   📸 Fotografando 82010390 (+72s)
-➡️  Trecho 23: 82010390 → 81520300 | Vel: 96km/h | Dist: 9.4km | Tempo: 300s | Bateria: 50.2min
-   📸 Fotografando 81520300 (+72s)
-➡️  Trecho 24: 81520300 → 82650470 | Vel: 96km/h | Dist: 10.3km | Tempo: 382s | Bateria: 45.2min
-   📸 Fotografando 82650470 (+72s)
-➡️  Trecho 25: 82650470 → 82990000 | Vel: 96km/h | Dist: 11.4km | Tempo: 394s | Bateria: 38.8min
-   📸 Fotografando 82990000 (+72s)
-➡️  Trecho 26: 82990000 → 81870352 | Vel: 96km/h | Dist: 11.7km | Tempo: 516s | Bateria: 32.2min
-   📸 Fotografando 81870352 (+72s)
-➡️  Trecho 27: 81870352 → 81935113 | Vel: 96km/h | Dist: 4.9km | Tempo: 161s | Bateria: 23.6min
-   📸 Fotografando 81935113 (+72s)
-➡️  Trecho 28: 81935113 → 81250610 | Vel: 96km/h | Dist: 10.8km | Tempo: 474s | Bateria: 20.9min
-   📸 Fotografando 81250610 (+72s)
-➡️  Trecho 29: 81250610 → 80540140 | Vel: 96km/h | Dist: 13.0km | Tempo: 432s | Bateria: 13.1min
-   📸 Fotografando 80540140 (+72s)
-➡️  Trecho 30: 80540140 → 80230090 | Vel: 96km/h | Dist: 4.3km | Tempo: 167s | Bateria: 5.8min
-   📸 Fotografando 80230090 (+72s)
-⚡ RECARGA em 80230090 - R$80,00
-➡️  Trecho 31: 80230090 → 81460235 | Vel: 36km/h | Dist: 12.1km | Tempo: 1442s | Bateria: 77.5min
-   📸 Fotografando 81460235 (+72s)
-➡️  Trecho 32: 81460235 → 81720360 | Vel: 96km/h | Dist: 8.6km | Tempo: 273s | Bateria: 53.5min
-   📸 Fotografando 81720360 (+72s)
-➡️  Trecho 33: 81720360 → 80710350 | Vel: 96km/h | Dist: 11.7km | Tempo: 477s | Bateria: 48.9min
-   📸 Fotografando 80710350 (+72s)
-➡️  Trecho 34: 80710350 → 82100440 | Vel: 96km/h | Dist: 4.6km | Tempo: 161s | Bateria: 41.0min
-   📸 Fotografando 82100440 (+72s)
-➡️  Trecho 35: 82100440 → 81830580 | Vel: 96km/h | Dist: 14.9km | Tempo: 530s | Bateria: 38.3min
-   📸 Fotografando 81830580 (+72s)
-➡️  Trecho 36: 81830580 → 82130282 | Vel: 96km/h | Dist: 16.1km | Tempo: 605s | Bateria: 29.4min
-   📸 Fotografando 82130282 (+72s)
-➡️  Trecho 37: 82130282 → 80530040 | Vel: 96km/h | Dist: 4.6km | Tempo: 168s | Bateria: 19.4min
-   📸 Fotografando 80530040 (+72s)
-➡️  Trecho 38: 80530040 → 80030430 | Vel: 96km/h | Dist: 1.9km | Tempo: 62s | Bateria: 16.6min
-   📸 Fotografando 80030430 (+72s)
-➡️  Trecho 39: 80030430 → 82900480 | Vel: 96km/h | Dist: 5.1km | Tempo: 169s | Bateria: 15.5min
-   📸 Fotografando 82900480 (+72s)
-➡️  Trecho 40: 82900480 → 82930390 | Vel: 96km/h | Dist: 2.1km | Tempo: 71s | Bateria: 12.7min
-   📸 Fotografando 82930390 (+72s)
-➡️  Trecho 41: 82930390 → 81480125 | Vel: 96km/h | Dist: 15.5km | Tempo: 661s | Bateria: 11.5min
+➡️  Trecho 1: 82821020 → 80060040 | Vel: 44km/h | Dist: 4.8km | Tempo: 287s | Bateria: 77.5min
+   📸 Fotografando 80060040 (+72s)
+➡️  Trecho 2: 80060040 → 81560480 | Vel: 60km/h | Dist: 8.5km | Tempo: 547s | Bateria: 72.7min
+   📸 Fotografando 81560480 (+72s)
+➡️  Trecho 3: 81560480 → 81470175 | Vel: 40km/h | Dist: 14.6km | Tempo: 929s | Bateria: 63.6min
+   📸 Fotografando 81470175 (+72s)
+➡️  Trecho 4: 81470175 → 80740620 | Vel: 64km/h | Dist: 14.1km | Tempo: 912s | Bateria: 48.1min
+   📸 Fotografando 80740620 (+72s)
+➡️  Trecho 5: 80740620 → 81450310 | Vel: 44km/h | Dist: 6.6km | Tempo: 412s | Bateria: 32.9min
+   📸 Fotografando 81450310 (+72s)
+➡️  Trecho 6: 81450310 → 81010170 | Vel: 76km/h | Dist: 7.5km | Tempo: 454s | Bateria: 26.1min
+   📸 Fotografando 81010170 (+72s)
+➡️  Trecho 7: 81010170 → 82980520 | Vel: 72km/h | Dist: 8.8km | Tempo: 572s | Bateria: 18.5min
+   📸 Fotografando 82980520 (+72s)
+➡️  Trecho 8: 82980520 → 81480125 | Vel: 92km/h | Dist: 16.0km | Tempo: 534s | Bateria: 8.9min
    📸 Fotografando 81480125 (+72s)
 ⚡ RECARGA em 81480125 - R$80,00
-➡️  Trecho 42: 81480125 → 81935050 | Vel: 36km/h | Dist: 5.8km | Tempo: 387s | Bateria: 77.5min
-   📸 Fotografando 81935050 (+72s)
-➡️  Trecho 43: 81935050 → 81590220 | Vel: 96km/h | Dist: 9.9km | Tempo: 333s | Bateria: 71.0min
-   📸 Fotografando 81590220 (+72s)
-➡️  Trecho 44: 81590220 → 81050411 | Vel: 96km/h | Dist: 10.8km | Tempo: 499s | Bateria: 65.5min
-   📸 Fotografando 81050411 (+72s)
-➡️  Trecho 45: 81050411 → 82025101 | Vel: 96km/h | Dist: 8.3km | Tempo: 310s | Bateria: 57.2min
-   📸 Fotografando 82025101 (+72s)
-➡️  Trecho 46: 82025101 → 81825210 | Vel: 96km/h | Dist: 13.6km | Tempo: 478s | Bateria: 52.0min
-   📸 Fotografando 81825210 (+72s)
-➡️  Trecho 47: 81825210 → 80540290 | Vel: 96km/h | Dist: 13.4km | Tempo: 490s | Bateria: 44.0min
-   📸 Fotografando 80540290 (+72s)
-➡️  Trecho 48: 80540290 → 80810020 | Vel: 96km/h | Dist: 3.2km | Tempo: 147s | Bateria: 35.9min
-   📸 Fotografando 80810020 (+72s)
-➡️  Trecho 49: 80810020 → 81490398 | Vel: 96km/h | Dist: 20.2km | Tempo: 775s | Bateria: 33.4min
-   📸 Fotografando 81490398 (+72s)
-➡️  Trecho 50: 81490398 → 81280190 | Vel: 96km/h | Dist: 17.9km | Tempo: 676s | Bateria: 20.5min
-   📸 Fotografando 81280190 (+72s)
-➡️  Trecho 51: 81280190 → 81770140 | Vel: 96km/h | Dist: 15.2km | Tempo: 495s | Bateria: 9.2min
-   📸 Fotografando 81770140 (+72s)
-⚡ RECARGA em 81770140 - R$80,00
-➡️  Trecho 52: 81770140 → 80220380 | Vel: 36km/h | Dist: 7.3km | Tempo: 687s | Bateria: 77.5min
-   📸 Fotografando 80220380 (+72s)
-➡️  Trecho 53: 80220380 → 82220610 | Vel: 96km/h | Dist: 10.1km | Tempo: 380s | Bateria: 66.0min
-   📸 Fotografando 82220610 (+72s)
-➡️  Trecho 54: 82220610 → 81310370 | Vel: 96km/h | Dist: 15.1km | Tempo: 595s | Bateria: 59.7min
-   📸 Fotografando 81310370 (+72s)
-➡️  Trecho 55: 81310370 → 81850680 | Vel: 96km/h | Dist: 9.0km | Tempo: 287s | Bateria: 49.8min
-   📸 Fotografando 81850680 (+72s)
-➡️  Trecho 56: 81850680 → 81550315 | Vel: 96km/h | Dist: 7.0km | Tempo: 238s | Bateria: 45.0min
-   📸 Fotografando 81550315 (+72s)
-➡️  Trecho 57: 81550315 → 81550430 | Vel: 92km/h | Dist: 0.3km | Tempo: 11s | Bateria: 41.0min
-   📸 Fotografando 81550430 (+72s)
-➡️  Trecho 58: 81550430 → 81020420 | Vel: 96km/h | Dist: 7.8km | Tempo: 366s | Bateria: 40.9min
-   📸 Fotografando 81020420 (+72s)
-➡️  Trecho 59: 81020420 → 81580050 | Vel: 96km/h | Dist: 5.6km | Tempo: 177s | Bateria: 34.8min
-   📸 Fotografando 81580050 (+72s)
-➡️  Trecho 60: 81580050 → 81470055 | Vel: 96km/h | Dist: 13.7km | Tempo: 605s | Bateria: 31.8min
-   📸 Fotografando 81470055 (+72s)
-➡️  Trecho 61: 81470055 → 82710082 | Vel: 96km/h | Dist: 23.7km | Tempo: 817s | Bateria: 21.7min
-   📸 Fotografando 82710082 (+72s)
-➡️  Trecho 62: 82710082 → 82820300 | Vel: 96km/h | Dist: 7.2km | Tempo: 235s | Bateria: 8.1min
-   📸 Fotografando 82820300 (+72s)
-➡️  Trecho 63: 82820300 → 80050435 | Vel: 96km/h | Dist: 4.7km | Tempo: 215s | Bateria: 4.2min
-   📸 Fotografando 80050435 (+72s)
-⚡ RECARGA em 80050435 - R$80,00
-➡️  Trecho 64: 80050435 → 81460239 | Vel: 36km/h | Dist: 14.7km | Tempo: 1885s | Bateria: 77.5min
-   📸 Fotografando 81460239 (+72s)
-➡️  Trecho 65: 81460239 → 81170762 | Vel: 96km/h | Dist: 2.0km | Tempo: 70s | Bateria: 46.1min
-   📸 Fotografando 81170762 (+72s)
-➡️  Trecho 66: 81170762 → 81770160 | Vel: 96km/h | Dist: 8.6km | Tempo: 271s | Bateria: 44.9min
-   📸 Fotografando 81770160 (+72s)
-➡️  Trecho 67: 81770160 → 80215542 | Vel: 96km/h | Dist: 9.2km | Tempo: 345s | Bateria: 40.4min
-   📸 Fotografando 80215542 (+72s)
-➡️  Trecho 68: 80215542 → 81250190 | Vel: 96km/h | Dist: 10.4km | Tempo: 478s | Bateria: 34.6min
-   📸 Fotografando 81250190 (+72s)
-➡️  Trecho 69: 81250190 → 82100620 | Vel: 96km/h | Dist: 10.6km | Tempo: 362s | Bateria: 26.7min
-   📸 Fotografando 82100620 (+72s)
-➡️  Trecho 70: 82100620 → 81880380 | Vel: 96km/h | Dist: 16.4km | Tempo: 596s | Bateria: 20.6min
-   📸 Fotografando 81880380 (+72s)
-➡️  Trecho 71: 81880380 → 81330550 | Vel: 96km/h | Dist: 6.9km | Tempo: 279s | Bateria: 10.7min
-   📸 Fotografando 81330550 (+72s)
-⚡ RECARGA em 81330550 - R$80,00
-➡️  Trecho 72: 81330550 → 82520040 | Vel: 36km/h | Dist: 12.3km | Tempo: 851s | Bateria: 77.5min
-   📸 Fotografando 82520040 (+72s)
-➡️  Trecho 73: 82520040 → 81920735 | Vel: 96km/h | Dist: 14.3km | Tempo: 551s | Bateria: 63.3min
-   📸 Fotografando 81920735 (+72s)
-➡️  Trecho 74: 81920735 → 82130470 | Vel: 96km/h | Dist: 18.2km | Tempo: 679s | Bateria: 54.1min
-   📸 Fotografando 82130470 (+72s)
-➡️  Trecho 75: 82130470 → 80820500 | Vel: 96km/h | Dist: 4.7km | Tempo: 195s | Bateria: 42.8min
-   📸 Fotografando 80820500 (+72s)
-➡️  Trecho 76: 80820500 → 81650170 | Vel: 96km/h | Dist: 12.3km | Tempo: 407s | Bateria: 39.6min
-   📸 Fotografando 81650170 (+72s)
-➡️  Trecho 77: 81650170 → 81110330 | Vel: 96km/h | Dist: 6.0km | Tempo: 282s | Bateria: 32.8min
-   📸 Fotografando 81110330 (+72s)
-➡️  Trecho 78: 81110330 → 81320083 | Vel: 96km/h | Dist: 4.5km | Tempo: 197s | Bateria: 28.1min
-   📸 Fotografando 81320083 (+72s)
-➡️  Trecho 79: 81320083 → 80610300 | Vel: 96km/h | Dist: 3.3km | Tempo: 105s | Bateria: 24.8min
-   📸 Fotografando 80610300 (+72s)
-➡️  Trecho 80: 80610300 → 80730450 | Vel: 96km/h | Dist: 3.8km | Tempo: 144s | Bateria: 23.1min
-   📸 Fotografando 80730450 (+72s)
-➡️  Trecho 81: 80730450 → 81550490 | Vel: 96km/h | Dist: 11.2km | Tempo: 362s | Bateria: 20.6min
-   📸 Fotografando 81550490 (+72s)
-➡️  Trecho 82: 81550490 → 80410000 | Vel: 96km/h | Dist: 11.4km | Tempo: 494s | Bateria: 14.6min
-   📸 Fotografando 80410000 (+72s)
-➡️  Trecho 83: 80410000 → 80620370 | Vel: 96km/h | Dist: 4.3km | Tempo: 149s | Bateria: 6.4min
-   📸 Fotografando 80620370 (+72s)
-⚡ RECARGA em 80620370 - R$80,00
-➡️  Trecho 84: 80620370 → 81560570 | Vel: 36km/h | Dist: 7.6km | Tempo: 516s | Bateria: 77.5min
-   📸 Fotografando 81560570 (+72s)
-➡️  Trecho 85: 81560570 → 81030180 | Vel: 96km/h | Dist: 5.8km | Tempo: 266s | Bateria: 68.9min
-   📸 Fotografando 81030180 (+72s)
-➡️  Trecho 86: 81030180 → 82015110 | Vel: 96km/h | Dist: 9.0km | Tempo: 386s | Bateria: 64.5min
-   📸 Fotografando 82015110 (+72s)
-➡️  Trecho 87: 82015110 → 80810070 | Vel: 96km/h | Dist: 3.4km | Tempo: 107s | Bateria: 58.0min
-   📸 Fotografando 80810070 (+72s)
-➡️  Trecho 88: 80810070 → 81550240 | Vel: 96km/h | Dist: 10.5km | Tempo: 339s | Bateria: 56.2min
-   📸 Fotografando 81550240 (+72s)
-➡️  Trecho 89: 81550240 → 81220100 | Vel: 96km/h | Dist: 11.8km | Tempo: 546s | Bateria: 50.6min
-   📸 Fotografando 81220100 (+72s)
-➡️  Trecho 90: 81220100 → 81880240 | Vel: 96km/h | Dist: 9.8km | Tempo: 344s | Bateria: 41.5min
-   📸 Fotografando 81880240 (+72s)
-➡️  Trecho 91: 81880240 → 82320340 | Vel: 96km/h | Dist: 16.5km | Tempo: 646s | Bateria: 35.8min
-   📸 Fotografando 82320340 (+72s)
-➡️  Trecho 92: 82320340 → 81910230 | Vel: 96km/h | Dist: 16.4km | Tempo: 555s | Bateria: 25.0min
-   📸 Fotografando 81910230 (+72s)
-➡️  Trecho 93: 81910230 → 82930030 | Vel: 96km/h | Dist: 10.0km | Tempo: 333s | Bateria: 15.8min
-   📸 Fotografando 82930030 (+72s)
-➡️  Trecho 94: 82930030 → 81820330 | Vel: 96km/h | Dist: 9.5km | Tempo: 408s | Bateria: 10.2min
-   📸 Fotografando 81820330 (+72s)
-⚡ RECARGA em 81820330 - R$80,00
-➡️  Trecho 95: 81820330 → 80060040 | Vel: 36km/h | Dist: 9.5km | Tempo: 810s | Bateria: 77.5min
-   📸 Fotografando 80060040 (+72s)
-➡️  Trecho 96: 80060040 → 81170755 | Vel: 96km/h | Dist: 11.6km | Tempo: 485s | Bateria: 64.0min
-   📸 Fotografando 81170755 (+72s)
-➡️  Trecho 97: 81170755 → 82810080 | Vel: 96km/h | Dist: 14.5km | Tempo: 462s | Bateria: 55.9min
-   📸 Fotografando 82810080 (+72s)
-➡️  Trecho 98: 82810080 → 82510100 | Vel: 96km/h | Dist: 4.2km | Tempo: 177s | Bateria: 48.2min
-   📸 Fotografando 82510100 (+72s)
-➡️  Trecho 99: 82510100 → 82530060 | Vel: 96km/h | Dist: 1.8km | Tempo: 66s | Bateria: 45.3min
-   📸 Fotografando 82530060 (+72s)
-➡️  Trecho 100: 82530060 → 81030380 | Vel: 96km/h | Dist: 8.1km | Tempo: 333s | Bateria: 44.2min
-   📸 Fotografando 81030380 (+72s)
-➡️  Trecho 101: 81030380 → 82220470 | Vel: 96km/h | Dist: 14.6km | Tempo: 532s | Bateria: 38.6min
-   📸 Fotografando 82220470 (+72s)
-➡️  Trecho 102: 82220470 → 81010130 | Vel: 96km/h | Dist: 13.3km | Tempo: 488s | Bateria: 29.8min
-   📸 Fotografando 81010130 (+72s)
-➡️  Trecho 103: 81010130 → 82980600 | Vel: 96km/h | Dist: 8.3km | Tempo: 257s | Bateria: 21.6min
-   📸 Fotografando 82980600 (+72s)
-📅 Dia 2 - Continuando às 19:04
-➡️  Trecho 104: 82980600 → 81910570 | Vel: 96km/h | Dist: 10.1km | Tempo: 432s | Bateria: 17.3min
-   📸 Fotografando 81910570 (+72s)
-➡️  Trecho 105: 81910570 → 81470256 | Vel: 96km/h | Dist: 8.9km | Tempo: 407s | Bateria: 10.1min
-   📸 Fotografando 81470256 (+72s)
-➡️  Trecho 106: 81470256 → 81490400 | Vel: 96km/h | Dist: 3.0km | Tempo: 107s | Bateria: 3.4min
-   📸 Fotografando 81490400 (+72s)
-⚡ RECARGA em 81490400 - R$80,00
-➡️  Trecho 107: 81490400 → 81540160 | Vel: 36km/h | Dist: 18.7km | Tempo: 1319s | Bateria: 77.5min
-   📸 Fotografando 81540160 (+72s)
-➡️  Trecho 108: 81540160 → 80330250 | Vel: 96km/h | Dist: 9.2km | Tempo: 434s | Bateria: 55.5min
-   📸 Fotografando 80330250 (+72s)
-➡️  Trecho 109: 80330250 → 81450140 | Vel: 96km/h | Dist: 5.3km | Tempo: 235s | Bateria: 48.3min
-   📸 Fotografando 81450140 (+72s)
-➡️  Trecho 110: 81450140 → 81710380 | Vel: 96km/h | Dist: 9.0km | Tempo: 281s | Bateria: 44.4min
-   📸 Fotografando 81710380 (+72s)
-➡️  Trecho 111: 81710380 → 82960200 | Vel: 96km/h | Dist: 5.8km | Tempo: 185s | Bateria: 39.7min
-   📸 Fotografando 82960200 (+72s)
-➡️  Trecho 112: 82960200 → 80820350 | Vel: 96km/h | Dist: 10.6km | Tempo: 473s | Bateria: 36.6min
-   📸 Fotografando 80820350 (+72s)
-➡️  Trecho 113: 80820350 → 82800310 | Vel: 96km/h | Dist: 7.4km | Tempo: 234s | Bateria: 28.7min
-   📸 Fotografando 82800310 (+72s)
-➡️  Trecho 114: 82800310 → 81650080 | Vel: 96km/h | Dist: 5.5km | Tempo: 210s | Bateria: 24.8min
-   📸 Fotografando 81650080 (+72s)
-➡️  Trecho 115: 81650080 → 81265330 | Vel: 96km/h | Dist: 13.5km | Tempo: 639s | Bateria: 21.3min
-   📸 Fotografando 81265330 (+72s)
-➡️  Trecho 116: 81265330 → 81450310 | Vel: 96km/h | Dist: 3.4km | Tempo: 112s | Bateria: 10.7min
-   📸 Fotografando 81450310 (+72s)
-➡️  Trecho 117: 81450310 → 80710040 | Vel: 96km/h | Dist: 9.1km | Tempo: 306s | Bateria: 8.8min
-   📸 Fotografando 80710040 (+72s)
-➡️  Trecho 118: 80710040 → 80045270 | Vel: 96km/h | Dist: 5.5km | Tempo: 172s | Bateria: 3.7min
-   📸 Fotografando 80045270 (+72s)
-⚡ RECARGA em 80045270 - R$80,00
-➡️  Trecho 119: 80045270 → 81220090 | Vel: 36km/h | Dist: 7.2km | Tempo: 1315s | Bateria: 77.5min
-   📸 Fotografando 81220090 (+72s)
-➡️  Trecho 120: 81220090 → 81830020 | Vel: 96km/h | Dist: 8.1km | Tempo: 267s | Bateria: 55.6min
-   📸 Fotografando 81830020 (+72s)
-➡️  Trecho 121: 81830020 → 81580020 | Vel: 96km/h | Dist: 5.1km | Tempo: 163s | Bateria: 51.1min
-   📸 Fotografando 81580020 (+72s)
-➡️  Trecho 122: 81580020 → 82630100 | Vel: 96km/h | Dist: 11.9km | Tempo: 432s | Bateria: 48.4min
-   📸 Fotografando 82630100 (+72s)
-➡️  Trecho 123: 82630100 → 81550150 | Vel: 96km/h | Dist: 10.7km | Tempo: 389s | Bateria: 41.2min
-   📸 Fotografando 81550150 (+72s)
-➡️  Trecho 124: 81550150 → 82560040 | Vel: 96km/h | Dist: 10.8km | Tempo: 427s | Bateria: 34.7min
-   📸 Fotografando 82560040 (+72s)
-➡️  Trecho 125: 82560040 → 81900560 | Vel: 96km/h | Dist: 17.2km | Tempo: 651s | Bateria: 27.6min
-   📸 Fotografando 81900560 (+72s)
-➡️  Trecho 126: 81900560 → 81920500 | Vel: 96km/h | Dist: 1.7km | Tempo: 54s | Bateria: 16.8min
-   📸 Fotografando 81920500 (+72s)
-➡️  Trecho 127: 81920500 → 81450410 | Vel: 96km/h | Dist: 10.3km | Tempo: 472s | Bateria: 15.9min
-   📸 Fotografando 81450410 (+72s)
-➡️  Trecho 128: 81450410 → 81590568 | Vel: 96km/h | Dist: 14.8km | Tempo: 459s | Bateria: 8.0min
+➡️  Trecho 9: 81480125 → 81590568 | Vel: 36km/h | Dist: 14.1km | Tempo: 2612s | Bateria: 77.5min
    📸 Fotografando 81590568 (+72s)
-⚡ RECARGA em 81590568 - R$80,00
-➡️  Trecho 129: 81590568 → 80220200 | Vel: 36km/h | Dist: 8.5km | Tempo: 1761s | Bateria: 77.5min
-   📸 Fotografando 80220200 (+72s)
-➡️  Trecho 130: 80220200 → 81350607 | Vel: 96km/h | Dist: 7.4km | Tempo: 323s | Bateria: 48.1min
-   📸 Fotografando 81350607 (+72s)
-➡️  Trecho 131: 81350607 → 80820480 | Vel: 96km/h | Dist: 11.7km | Tempo: 410s | Bateria: 42.8min
-   📸 Fotografando 80820480 (+72s)
-➡️  Trecho 132: 80820480 → 81935317 | Vel: 96km/h | Dist: 16.9km | Tempo: 599s | Bateria: 35.9min
-   📸 Fotografando 81935317 (+72s)
-➡️  Trecho 133: 81935317 → 80710600 | Vel: 96km/h | Dist: 15.4km | Tempo: 594s | Bateria: 25.9min
-   📸 Fotografando 80710600 (+72s)
-➡️  Trecho 134: 80710600 → 82520150 | Vel: 96km/h | Dist: 6.5km | Tempo: 203s | Bateria: 16.1min
-   📸 Fotografando 82520150 (+72s)
-➡️  Trecho 135: 82520150 → 80040153 | Vel: 96km/h | Dist: 1.5km | Tempo: 65s | Bateria: 12.7min
+➡️  Trecho 10: 81590568 → 81770160 | Vel: 40km/h | Dist: 6.7km | Tempo: 433s | Bateria: 34.0min
+   📸 Fotografando 81770160 (+72s)
+➡️  Trecho 11: 81770160 → 80040153 | Vel: 60km/h | Dist: 12.1km | Tempo: 805s | Bateria: 26.8min
    📸 Fotografando 80040153 (+72s)
-➡️  Trecho 136: 80040153 → 82840120 | Vel: 96km/h | Dist: 3.6km | Tempo: 116s | Bateria: 11.6min
-   📸 Fotografando 82840120 (+72s)
-⚡ RECARGA em 82840120 - R$80,00
-➡️  Trecho 137: 82840120 → 81452040 | Vel: 36km/h | Dist: 17.4km | Tempo: 2624s | Bateria: 77.5min
-   📸 Fotografando 81452040 (+72s)
-➡️  Trecho 138: 81452040 → 81050637 | Vel: 96km/h | Dist: 4.4km | Tempo: 140s | Bateria: 33.8min
-   📸 Fotografando 81050637 (+72s)
-➡️  Trecho 139: 81050637 → 81350320 | Vel: 96km/h | Dist: 2.5km | Tempo: 107s | Bateria: 31.4min
-   📸 Fotografando 81350320 (+72s)
-➡️  Trecho 140: 81350320 → 80730430 | Vel: 96km/h | Dist: 8.6km | Tempo: 292s | Bateria: 29.6min
-   📸 Fotografando 80730430 (+72s)
-➡️  Trecho 141: 80730430 → 81320290 | Vel: 96km/h | Dist: 5.3km | Tempo: 207s | Bateria: 24.8min
-   📸 Fotografando 81320290 (+72s)
-➡️  Trecho 142: 81320290 → 82520590 | Vel: 96km/h | Dist: 10.9km | Tempo: 353s | Bateria: 21.3min
-   📸 Fotografando 82520590 (+72s)
-➡️  Trecho 143: 82520590 → 81510160 | Vel: 96km/h | Dist: 5.1km | Tempo: 204s | Bateria: 15.4min
-   📸 Fotografando 81510160 (+72s)
-➡️  Trecho 144: 81510160 → 81580179 | Vel: 96km/h | Dist: 5.0km | Tempo: 171s | Bateria: 12.1min
-   📸 Fotografando 81580179 (+72s)
-➡️  Trecho 145: 81580179 → 82640640 | Vel: 96km/h | Dist: 14.0km | Tempo: 529s | Bateria: 9.2min
-   📸 Fotografando 82640640 (+72s)
-⚡ RECARGA em 82640640 - R$80,00
-➡️  Trecho 146: 82640640 → 82320220 | Vel: 36km/h | Dist: 10.9km | Tempo: 2074s | Bateria: 77.5min
-   📸 Fotografando 82320220 (+72s)
-➡️  Trecho 147: 82320220 → 81520290 | Vel: 96km/h | Dist: 12.3km | Tempo: 404s | Bateria: 42.9min
-   📸 Fotografando 81520290 (+72s)
-➡️  Trecho 148: 81520290 → 80320140 | Vel: 96km/h | Dist: 5.4km | Tempo: 242s | Bateria: 36.2min
-   📸 Fotografando 80320140 (+72s)
-➡️  Trecho 149: 80320140 → 81480050 | Vel: 96km/h | Dist: 11.2km | Tempo: 426s | Bateria: 32.2min
-   📸 Fotografando 81480050 (+72s)
-➡️  Trecho 150: 81480050 → 80820310 | Vel: 96km/h | Dist: 17.4km | Tempo: 632s | Bateria: 25.1min
-   📸 Fotografando 80820310 (+72s)
-➡️  Trecho 151: 80820310 → 81450350 | Vel: 96km/h | Dist: 10.7km | Tempo: 438s | Bateria: 14.5min
-   📸 Fotografando 81450350 (+72s)
-➡️  Trecho 152: 81450350 → 80215650 | Vel: 96km/h | Dist: 11.0km | Tempo: 357s | Bateria: 7.2min
-   📸 Fotografando 80215650 (+72s)
-⚡ RECARGA em 80215650 - R$80,00
-➡️  Trecho 153: 80215650 → 81590577 | Vel: 36km/h | Dist: 6.9km | Tempo: 512s | Bateria: 77.5min
-   📸 Fotografando 81590577 (+72s)
-➡️  Trecho 154: 81590577 → 82020770 | Vel: 96km/h | Dist: 15.3km | Tempo: 652s | Bateria: 69.0min
-   📸 Fotografando 82020770 (+72s)
-➡️  Trecho 155: 82020770 → 81470370 | Vel: 96km/h | Dist: 19.5km | Tempo: 731s | Bateria: 58.1min
-   📸 Fotografando 81470370 (+72s)
-➡️  Trecho 156: 81470370 → 81230560 | Vel: 96km/h | Dist: 13.0km | Tempo: 488s | Bateria: 45.9min
-   📸 Fotografando 81230560 (+72s)
-➡️  Trecho 157: 81230560 → 80710390 | Vel: 96km/h | Dist: 5.2km | Tempo: 170s | Bateria: 37.8min
-   📸 Fotografando 80710390 (+72s)
-➡️  Trecho 158: 80710390 → 80050440 | Vel: 96km/h | Dist: 6.5km | Tempo: 208s | Bateria: 35.0min
-   📸 Fotografando 80050440 (+72s)
-➡️  Trecho 159: 80050440 → 81480141 | Vel: 96km/h | Dist: 16.0km | Tempo: 650s | Bateria: 31.5min
-   📸 Fotografando 81480141 (+72s)
-➡️  Trecho 160: 81480141 → 81450340 | Vel: 96km/h | Dist: 7.8km | Tempo: 304s | Bateria: 20.6min
-   📸 Fotografando 81450340 (+72s)
-➡️  Trecho 161: 81450340 → 82650230 | Vel: 96km/h | Dist: 16.2km | Tempo: 546s | Bateria: 15.6min
-   📸 Fotografando 82650230 (+72s)
-⚡ RECARGA em 82650230 - R$80,00
-➡️  Trecho 162: 82650230 → 81210070 | Vel: 36km/h | Dist: 10.8km | Tempo: 1475s | Bateria: 77.5min
-   📸 Fotografando 81210070 (+72s)
-➡️  Trecho 163: 81210070 → 82990198 | Vel: 96km/h | Dist: 12.9km | Tempo: 417s | Bateria: 52.9min
-   📸 Fotografando 82990198 (+72s)
-➡️  Trecho 164: 82990198 → 81460140 | Vel: 96km/h | Dist: 15.1km | Tempo: 637s | Bateria: 46.0min
-   📸 Fotografando 81460140 (+72s)
-➡️  Trecho 165: 81460140 → 81935382 | Vel: 96km/h | Dist: 5.6km | Tempo: 180s | Bateria: 35.4min
-   📸 Fotografando 81935382 (+72s)
-➡️  Trecho 166: 81935382 → 81170370 | Vel: 96km/h | Dist: 9.0km | Tempo: 388s | Bateria: 32.4min
-   📸 Fotografando 81170370 (+72s)
-➡️  Trecho 167: 81170370 → 81150130 | Vel: 96km/h | Dist: 2.2km | Tempo: 68s | Bateria: 25.9min
-   📸 Fotografando 81150130 (+72s)
-➡️  Trecho 168: 81150130 → 81260430 | Vel: 96km/h | Dist: 8.0km | Tempo: 345s | Bateria: 24.8min
-   📸 Fotografando 81260430 (+72s)
-➡️  Trecho 169: 81260430 → 81750280 | Vel: 96km/h | Dist: 12.8km | Tempo: 407s | Bateria: 19.0min
-   📸 Fotografando 81750280 (+72s)
-➡️  Trecho 170: 81750280 → 81230395 | Vel: 96km/h | Dist: 11.1km | Tempo: 501s | Bateria: 12.2min
-   📸 Fotografando 81230395 (+72s)
-⚡ RECARGA em 81230395 - R$80,00
-➡️  Trecho 171: 81230395 → 81460210 | Vel: 36km/h | Dist: 7.7km | Tempo: 660s | Bateria: 77.5min
-   📸 Fotografando 81460210 (+72s)
-➡️  Trecho 172: 81460210 → 81250210 | Vel: 96km/h | Dist: 6.4km | Tempo: 248s | Bateria: 66.5min
-   📸 Fotografando 81250210 (+72s)
-➡️  Trecho 173: 81250210 → 81940200 | Vel: 96km/h | Dist: 10.3km | Tempo: 350s | Bateria: 62.4min
-   📸 Fotografando 81940200 (+72s)
-➡️  Trecho 174: 81940200 → 80035230 | Vel: 96km/h | Dist: 18.2km | Tempo: 637s | Bateria: 56.5min
-   📸 Fotografando 80035230 (+72s)
-➡️  Trecho 175: 80035230 → 80010160 | Vel: 92km/h | Dist: 0.4km | Tempo: 14s | Bateria: 45.9min
-   📸 Fotografando 80010160 (+72s)
-➡️  Trecho 176: 80010160 → 81590578 | Vel: 96km/h | Dist: 11.7km | Tempo: 399s | Bateria: 45.7min
-   📸 Fotografando 81590578 (+72s)
-➡️  Trecho 177: 81590578 → 81925567 | Vel: 96km/h | Dist: 9.5km | Tempo: 413s | Bateria: 39.0min
-   📸 Fotografando 81925567 (+72s)
-➡️  Trecho 178: 81925567 → 82015720 | Vel: 96km/h | Dist: 16.2km | Tempo: 647s | Bateria: 32.1min
-   📸 Fotografando 82015720 (+72s)
-➡️  Trecho 179: 82015720 → 81315685 | Vel: 96km/h | Dist: 10.4km | Tempo: 376s | Bateria: 21.4min
-   📸 Fotografando 81315685 (+72s)
-➡️  Trecho 180: 81315685 → 81870310 | Vel: 96km/h | Dist: 3.8km | Tempo: 121s | Bateria: 15.1min
-   📸 Fotografando 81870310 (+72s)
-➡️  Trecho 181: 81870310 → 81490360 | Vel: 96km/h | Dist: 9.1km | Tempo: 369s | Bateria: 13.1min
-   📸 Fotografando 81490360 (+72s)
-⚡ RECARGA em 81490360 - R$80,00
-➡️  Trecho 182: 81490360 → 80035210 | Vel: 36km/h | Dist: 23.1km | Tempo: 1796s | Bateria: 77.5min
-   📸 Fotografando 80035210 (+72s)
-➡️  Trecho 183: 80035210 → 80620340 | Vel: 96km/h | Dist: 6.3km | Tempo: 249s | Bateria: 47.6min
-   📸 Fotografando 80620340 (+72s)
-➡️  Trecho 184: 80620340 → 82220563 | Vel: 96km/h | Dist: 10.9km | Tempo: 404s | Bateria: 43.4min
+➡️  Trecho 12: 80040153 → 81850712 | Vel: 48km/h | Dist: 12.0km | Tempo: 780s | Bateria: 13.3min
+   📸 Fotografando 81850712 (+72s)
+⚡ RECARGA em 81850712 - R$80,00
+➡️  Trecho 13: 81850712 → 81935474 | Vel: 36km/h | Dist: 2.6km | Tempo: 341s | Bateria: 77.5min
+   📸 Fotografando 81935474 (+72s)
+➡️  Trecho 14: 81935474 → 80440090 | Vel: 48km/h | Dist: 12.7km | Tempo: 838s | Bateria: 71.8min
+   📸 Fotografando 80440090 (+72s)
+➡️  Trecho 15: 80440090 → 80810200 | Vel: 60km/h | Dist: 3.6km | Tempo: 225s | Bateria: 57.9min
+   📸 Fotografando 80810200 (+72s)
+➡️  Trecho 16: 80810200 → 82220563 | Vel: 56km/h | Dist: 6.2km | Tempo: 420s | Bateria: 54.1min
    📸 Fotografando 82220563 (+72s)
-➡️  Trecho 185: 82220563 → 81470300 | Vel: 96km/h | Dist: 25.1km | Tempo: 966s | Bateria: 36.7min
-   📸 Fotografando 81470300 (+72s)
-➡️  Trecho 186: 81470300 → 81590270 | Vel: 96km/h | Dist: 16.8km | Tempo: 541s | Bateria: 20.6min
-   📸 Fotografando 81590270 (+72s)
-➡️  Trecho 187: 81590270 → 82860400 | Vel: 96km/h | Dist: 10.9km | Tempo: 399s | Bateria: 11.6min
-   📸 Fotografando 82860400 (+72s)
-⚡ RECARGA em 82860400 - R$80,00
-➡️  Trecho 188: 82860400 → 81490370 | Vel: 36km/h | Dist: 26.9km | Tempo: 3132s | Bateria: 77.5min
-   📸 Fotografando 81490370 (+72s)
-➡️  Trecho 189: 81490370 → 81220170 | Vel: 96km/h | Dist: 15.4km | Tempo: 554s | Bateria: 25.3min
-   📸 Fotografando 81220170 (+72s)
-📅 Dia 3 - Continuando às 19:00
-➡️  Trecho 190: 81220170 → 82700540 | Vel: 96km/h | Dist: 11.6km | Tempo: 386s | Bateria: 16.1min
-   📸 Fotografando 82700540 (+72s)
-➡️  Trecho 191: 82700540 → 82510514 | Vel: 96km/h | Dist: 5.0km | Tempo: 189s | Bateria: 9.6min
-   📸 Fotografando 82510514 (+72s)
-⚡ RECARGA em 82510514 - R$80,00
-➡️  Trecho 192: 82510514 → 81480170 | Vel: 36km/h | Dist: 18.5km | Tempo: 2475s | Bateria: 77.5min
-   📸 Fotografando 81480170 (+72s)
-➡️  Trecho 193: 81480170 → 81150120 | Vel: 96km/h | Dist: 5.3km | Tempo: 182s | Bateria: 36.2min
-   📸 Fotografando 81150120 (+72s)
-➡️  Trecho 194: 81150120 → 81940210 | Vel: 96km/h | Dist: 5.1km | Tempo: 191s | Bateria: 33.2min
-   📸 Fotografando 81940210 (+72s)
-➡️  Trecho 195: 81940210 → 80210400 | Vel: 96km/h | Dist: 13.3km | Tempo: 451s | Bateria: 30.0min
-   📸 Fotografando 80210400 (+72s)
-➡️  Trecho 196: 80210400 → 82600750 | Vel: 96km/h | Dist: 6.4km | Tempo: 214s | Bateria: 22.5min
-   📸 Fotografando 82600750 (+72s)
-➡️  Trecho 197: 82600750 → 81350686 | Vel: 96km/h | Dist: 16.5km | Tempo: 726s | Bateria: 18.9min
-   📸 Fotografando 81350686 (+72s)
-⚡ RECARGA em 81350686 - R$80,00
-➡️  Trecho 198: 81350686 → 82200440 | Vel: 36km/h | Dist: 13.5km | Tempo: 985s | Bateria: 77.5min
-   📸 Fotografando 82200440 (+72s)
-➡️  Trecho 199: 82200440 → 82020560 | Vel: 96km/h | Dist: 6.1km | Tempo: 269s | Bateria: 61.1min
-   📸 Fotografando 82020560 (+72s)
-➡️  Trecho 200: 82020560 → 82025060 | Vel: 96km/h | Dist: 1.7km | Tempo: 59s | Bateria: 56.6min
-   📸 Fotografando 82025060 (+72s)
-➡️  Trecho 201: 82025060 → 81330400 | Vel: 96km/h | Dist: 8.9km | Tempo: 362s | Bateria: 55.6min
-   📸 Fotografando 81330400 (+72s)
-➡️  Trecho 202: 81330400 → 80250085 | Vel: 96km/h | Dist: 6.8km | Tempo: 224s | Bateria: 49.6min
-   📸 Fotografando 80250085 (+72s)
-➡️  Trecho 203: 80250085 → 82315100 | Vel: 96km/h | Dist: 8.3km | Tempo: 346s | Bateria: 45.9min
-   📸 Fotografando 82315100 (+72s)
-➡️  Trecho 204: 82315100 → 82630494 | Vel: 96km/h | Dist: 14.3km | Tempo: 465s | Bateria: 40.1min
-   📸 Fotografando 82630494 (+72s)
-➡️  Trecho 205: 82630494 → 81200400 | Vel: 96km/h | Dist: 14.0km | Tempo: 621s | Bateria: 32.3min
-   📸 Fotografando 81200400 (+72s)
-➡️  Trecho 206: 81200400 → 82130162 | Vel: 96km/h | Dist: 9.5km | Tempo: 311s | Bateria: 22.0min
-   📸 Fotografando 82130162 (+72s)
-➡️  Trecho 207: 82130162 → 80320110 | Vel: 96km/h | Dist: 9.5km | Tempo: 391s | Bateria: 16.8min
-   📸 Fotografando 80320110 (+72s)
-➡️  Trecho 208: 80320110 → 81910160 | Vel: 96km/h | Dist: 7.9km | Tempo: 297s | Bateria: 10.3min
-   📸 Fotografando 81910160 (+72s)
-⚡ RECARGA em 81910160 - R$80,00
-➡️  Trecho 209: 81910160 → 81470255 | Vel: 36km/h | Dist: 8.1km | Tempo: 1361s | Bateria: 77.5min
-   📸 Fotografando 81470255 (+72s)
-➡️  Trecho 210: 81470255 → 82300430 | Vel: 96km/h | Dist: 16.5km | Tempo: 551s | Bateria: 54.8min
-   📸 Fotografando 82300430 (+72s)
-➡️  Trecho 211: 82300430 → 81470290 | Vel: 96km/h | Dist: 17.0km | Tempo: 718s | Bateria: 45.6min
-   📸 Fotografando 81470290 (+72s)
-➡️  Trecho 212: 81470290 → 80240550 | Vel: 96km/h | Dist: 13.9km | Tempo: 451s | Bateria: 33.7min
-   📸 Fotografando 80240550 (+72s)
-➡️  Trecho 213: 80240550 → 80740199 | Vel: 96km/h | Dist: 1.4km | Tempo: 53s | Bateria: 26.1min
-   📸 Fotografando 80740199 (+72s)
-➡️  Trecho 214: 80740199 → 81470346 | Vel: 96km/h | Dist: 15.3km | Tempo: 663s | Bateria: 25.3min
-   📸 Fotografando 81470346 (+72s)
-➡️  Trecho 215: 81470346 → 81510390 | Vel: 96km/h | Dist: 15.5km | Tempo: 495s | Bateria: 14.2min
-   📸 Fotografando 81510390 (+72s)
-➡️  Trecho 216: 81510390 → 82520095 | Vel: 96km/h | Dist: 6.0km | Tempo: 198s | Bateria: 6.0min
-   📸 Fotografando 82520095 (+72s)
-⚡ RECARGA em 82520095 - R$80,00
-➡️  Trecho 217: 82520095 → 81050610 | Vel: 36km/h | Dist: 10.5km | Tempo: 1980s | Bateria: 77.5min
-   📸 Fotografando 81050610 (+72s)
-➡️  Trecho 218: 81050610 → 82930000 | Vel: 96km/h | Dist: 10.9km | Tempo: 353s | Bateria: 44.5min
-   📸 Fotografando 82930000 (+72s)
-➡️  Trecho 219: 82930000 → 81305650 | Vel: 96km/h | Dist: 12.8km | Tempo: 576s | Bateria: 38.6min
-   📸 Fotografando 81305650 (+72s)
-➡️  Trecho 220: 81305650 → 81020150 | Vel: 96km/h | Dist: 4.0km | Tempo: 129s | Bateria: 29.0min
-   📸 Fotografando 81020150 (+72s)
-➡️  Trecho 221: 81020150 → 82650320 | Vel: 96km/h | Dist: 13.0km | Tempo: 422s | Bateria: 26.9min
-   📸 Fotografando 82650320 (+72s)
-➡️  Trecho 222: 82650320 → 82410316 | Vel: 96km/h | Dist: 8.3km | Tempo: 360s | Bateria: 19.8min
-   📸 Fotografando 82410316 (+72s)
-➡️  Trecho 223: 82410316 → 81560730 | Vel: 96km/h | Dist: 14.6km | Tempo: 540s | Bateria: 13.8min
-   📸 Fotografando 81560730 (+72s)
-➡️  Trecho 224: 81560730 → 81610090 | Vel: 96km/h | Dist: 1.8km | Tempo: 83s | Bateria: 4.8min
-   📸 Fotografando 81610090 (+72s)
-⚡ RECARGA em 81610090 - R$80,00
-➡️  Trecho 225: 81610090 → 81480160 | Vel: 36km/h | Dist: 11.2km | Tempo: 2119s | Bateria: 77.5min
-   📸 Fotografando 81480160 (+72s)
-➡️  Trecho 226: 81480160 → 81110070 | Vel: 96km/h | Dist: 6.5km | Tempo: 210s | Bateria: 42.2min
-   📸 Fotografando 81110070 (+72s)
-➡️  Trecho 227: 81110070 → 81070000 | Vel: 96km/h | Dist: 3.2km | Tempo: 115s | Bateria: 38.7min
-   📸 Fotografando 81070000 (+72s)
-➡️  Trecho 228: 81070000 → 81925578 | Vel: 96km/h | Dist: 9.1km | Tempo: 352s | Bateria: 36.8min
-   📸 Fotografando 81925578 (+72s)
-➡️  Trecho 229: 81925578 → 81750200 | Vel: 96km/h | Dist: 4.7km | Tempo: 164s | Bateria: 30.9min
-   📸 Fotografando 81750200 (+72s)
-➡️  Trecho 230: 81750200 → 81590576 | Vel: 96km/h | Dist: 4.9km | Tempo: 170s | Bateria: 28.2min
-   📸 Fotografando 81590576 (+72s)
-➡️  Trecho 231: 81590576 → 82415070 | Vel: 96km/h | Dist: 19.7km | Tempo: 734s | Bateria: 25.3min
-   📸 Fotografando 82415070 (+72s)
-➡️  Trecho 232: 82415070 → 80730270 | Vel: 96km/h | Dist: 8.8km | Tempo: 341s | Bateria: 13.1min
-   📸 Fotografando 80730270 (+72s)
-➡️  Trecho 233: 80730270 → 82310380 | Vel: 96km/h | Dist: 5.7km | Tempo: 224s | Bateria: 7.4min
+➡️  Trecho 17: 82220563 → 82200200 | Vel: 60km/h | Dist: 3.9km | Tempo: 254s | Bateria: 47.1min
+   📸 Fotografando 82200200 (+72s)
+➡️  Trecho 18: 82200200 → 81230395 | Vel: 44km/h | Dist: 10.8km | Tempo: 696s | Bateria: 42.9min
+   📸 Fotografando 81230395 (+72s)
+➡️  Trecho 19: 81230395 → 80230090 | Vel: 72km/h | Dist: 7.4km | Tempo: 480s | Bateria: 31.3min
+   📸 Fotografando 80230090 (+72s)
+➡️  Trecho 20: 80230090 → 80035210 | Vel: 64km/h | Dist: 4.7km | Tempo: 306s | Bateria: 23.3min
+   📸 Fotografando 80035210 (+72s)
+➡️  Trecho 21: 80035210 → 82315390 | Vel: 40km/h | Dist: 11.1km | Tempo: 691s | Bateria: 18.2min
+   📸 Fotografando 82315390 (+72s)
+⚡ RECARGA em 82315390 - R$80,00
+➡️  Trecho 22: 82315390 → 81580020 | Vel: 36km/h | Dist: 16.2km | Tempo: 2806s | Bateria: 77.5min
+   📸 Fotografando 81580020 (+72s)
+➡️  Trecho 23: 81580020 → 82930370 | Vel: 68km/h | Dist: 3.4km | Tempo: 214s | Bateria: 30.7min
+   📸 Fotografando 82930370 (+72s)
+➡️  Trecho 24: 82930370 → 82960488 | Vel: 40km/h | Dist: 0.6km | Tempo: 39s | Bateria: 27.2min
+   📸 Fotografando 82960488 (+72s)
+➡️  Trecho 25: 82960488 → 82310380 | Vel: 40km/h | Dist: 15.3km | Tempo: 949s | Bateria: 26.5min
    📸 Fotografando 82310380 (+72s)
-⚡ RECARGA em 82310380 - R$80,00
-➡️  Trecho 234: 82310380 → 80510325 | Vel: 36km/h | Dist: 7.9km | Tempo: 671s | Bateria: 77.5min
-   📸 Fotografando 80510325 (+72s)
-➡️  Trecho 235: 80510325 → 81610220 | Vel: 96km/h | Dist: 7.9km | Tempo: 304s | Bateria: 66.3min
-   📸 Fotografando 81610220 (+72s)
-➡️  Trecho 236: 81610220 → 81910030 | Vel: 96km/h | Dist: 6.2km | Tempo: 254s | Bateria: 61.2min
-   📸 Fotografando 81910030 (+72s)
-➡️  Trecho 237: 81910030 → 81590045 | Vel: 96km/h | Dist: 8.4km | Tempo: 293s | Bateria: 57.0min
+➡️  Trecho 26: 82310380 → 81110070 | Vel: 72km/h | Dist: 10.6km | Tempo: 633s | Bateria: 10.7min
+   📸 Fotografando 81110070 (+72s)
+⚡ RECARGA em 81110070 - R$80,00
+➡️  Trecho 27: 81110070 → 81450520 | Vel: 36km/h | Dist: 5.2km | Tempo: 340s | Bateria: 77.5min
+   📸 Fotografando 81450520 (+72s)
+➡️  Trecho 28: 81450520 → 81590045 | Vel: 76km/h | Dist: 14.6km | Tempo: 922s | Bateria: 71.8min
    📸 Fotografando 81590045 (+72s)
-➡️  Trecho 238: 81590045 → 81590340 | Vel: 96km/h | Dist: 0.9km | Tempo: 35s | Bateria: 52.1min
-   📸 Fotografando 81590340 (+72s)
-➡️  Trecho 239: 81590340 → 81810492 | Vel: 96km/h | Dist: 7.0km | Tempo: 285s | Bateria: 51.5min
-   📸 Fotografando 81810492 (+72s)
-➡️  Trecho 240: 81810492 → 82710320 | Vel: 96km/h | Dist: 16.7km | Tempo: 587s | Bateria: 46.8min
-   📸 Fotografando 82710320 (+72s)
-➡️  Trecho 241: 82710320 → 81312000 | Vel: 96km/h | Dist: 17.4km | Tempo: 705s | Bateria: 37.0min
-   📸 Fotografando 81312000 (+72s)
-➡️  Trecho 242: 81312000 → 82320460 | Vel: 96km/h | Dist: 11.2km | Tempo: 404s | Bateria: 25.3min
-   📸 Fotografando 82320460 (+72s)
-➡️  Trecho 243: 82320460 → 82400000 | Vel: 96km/h | Dist: 1.7km | Tempo: 60s | Bateria: 18.5min
-   📸 Fotografando 82400000 (+72s)
-➡️  Trecho 244: 82400000 → 81935446 | Vel: 96km/h | Dist: 19.3km | Tempo: 742s | Bateria: 17.5min
-   📸 Fotografando 81935446 (+72s)
-⚡ RECARGA em 81935446 - R$80,00
-➡️  Trecho 245: 81935446 → 81260160 | Vel: 36km/h | Dist: 12.5km | Tempo: 1258s | Bateria: 77.5min
-   📸 Fotografando 81260160 (+72s)
-➡️  Trecho 246: 81260160 → 81150330 | Vel: 96km/h | Dist: 5.8km | Tempo: 217s | Bateria: 56.5min
-   📸 Fotografando 81150330 (+72s)
-➡️  Trecho 247: 81150330 → 81910390 | Vel: 96km/h | Dist: 4.4km | Tempo: 160s | Bateria: 52.9min
-   📸 Fotografando 81910390 (+72s)
-➡️  Trecho 248: 81910390 → 80740620 | Vel: 96km/h | Dist: 11.4km | Tempo: 416s | Bateria: 50.2min
-   📸 Fotografando 80740620 (+72s)
-➡️  Trecho 249: 80740620 → 81490562 | Vel: 96km/h | Dist: 17.7km | Tempo: 710s | Bateria: 43.3min
+➡️  Trecho 29: 81590045 → 81260412 | Vel: 40km/h | Dist: 15.7km | Tempo: 959s | Bateria: 56.5min
+   📸 Fotografando 81260412 (+72s)
+➡️  Trecho 30: 81260412 → 81520250 | Vel: 76km/h | Dist: 11.6km | Tempo: 730s | Bateria: 40.5min
+   📸 Fotografando 81520250 (+72s)
+➡️  Trecho 31: 81520250 → 82020560 | Vel: 44km/h | Dist: 10.6km | Tempo: 645s | Bateria: 28.3min
+   📸 Fotografando 82020560 (+72s)
+➡️  Trecho 32: 82020560 → 82700410 | Vel: 72km/h | Dist: 7.9km | Tempo: 523s | Bateria: 17.6min
+   📸 Fotografando 82700410 (+72s)
+⚡ RECARGA em 82700410 - R$80,00
+➡️  Trecho 33: 82700410 → 81470256 | Vel: 36km/h | Dist: 23.4km | Tempo: 1957s | Bateria: 77.5min
+   📸 Fotografando 81470256 (+72s)
+➡️  Trecho 34: 81470256 → 81150120 | Vel: 64km/h | Dist: 6.7km | Tempo: 446s | Bateria: 44.9min
+   📸 Fotografando 81150120 (+72s)
+➡️  Trecho 35: 81150120 → 81910570 | Vel: 76km/h | Dist: 4.9km | Tempo: 304s | Bateria: 37.5min
+   📸 Fotografando 81910570 (+72s)
+➡️  Trecho 36: 81910570 → 81030380 | Vel: 48km/h | Dist: 5.5km | Tempo: 361s | Bateria: 32.4min
+   📸 Fotografando 81030380 (+72s)
+➡️  Trecho 37: 81030380 → 81320083 | Vel: 40km/h | Dist: 4.3km | Tempo: 266s | Bateria: 26.4min
+   📸 Fotografando 81320083 (+72s)
+➡️  Trecho 38: 81320083 → 81240110 | Vel: 40km/h | Dist: 2.7km | Tempo: 168s | Bateria: 21.9min
+   📸 Fotografando 81240110 (+72s)
+➡️  Trecho 39: 81240110 → 81260470 | Vel: 52km/h | Dist: 1.4km | Tempo: 88s | Bateria: 19.1min
+   📸 Fotografando 81260470 (+72s)
+➡️  Trecho 40: 81260470 → 82020770 | Vel: 60km/h | Dist: 10.0km | Tempo: 669s | Bateria: 17.7min
+   📸 Fotografando 82020770 (+72s)
+⚡ RECARGA em 82020770 - R$80,00
+➡️  Trecho 41: 82020770 → 81530380 | Vel: 36km/h | Dist: 10.9km | Tempo: 1880s | Bateria: 77.5min
+   📸 Fotografando 81530380 (+72s)
+➡️  Trecho 42: 81530380 → 81590577 | Vel: 72km/h | Dist: 4.5km | Tempo: 271s | Bateria: 46.2min
+   📸 Fotografando 81590577 (+72s)
+➡️  Trecho 43: 81590577 → 80620340 | Vel: 40km/h | Dist: 8.5km | Tempo: 541s | Bateria: 41.6min
+   📸 Fotografando 80620340 (+72s)
+➡️  Trecho 44: 80620340 → 81825210 | Vel: 56km/h | Dist: 8.0km | Tempo: 516s | Bateria: 32.6min
+   📸 Fotografando 81825210 (+72s)
+➡️  Trecho 45: 81825210 → 81570010 | Vel: 64km/h | Dist: 6.8km | Tempo: 455s | Bateria: 24.0min
+   📸 Fotografando 81570010 (+72s)
+➡️  Trecho 46: 81570010 → 80810070 | Vel: 44km/h | Dist: 8.3km | Tempo: 530s | Bateria: 16.4min
+   📸 Fotografando 80810070 (+72s)
+➡️  Trecho 47: 80810070 → 82840140 | Vel: 88km/h | Dist: 8.4km | Tempo: 436s | Bateria: 7.6min
+   📸 Fotografando 82840140 (+72s)
+⚡ RECARGA em 82840140 - R$80,00
+➡️  Trecho 48: 82840140 → 81560730 | Vel: 36km/h | Dist: 8.3km | Tempo: 755s | Bateria: 77.5min
+   📸 Fotografando 81560730 (+72s)
+➡️  Trecho 49: 81560730 → 81490562 | Vel: 44km/h | Dist: 17.4km | Tempo: 1114s | Bateria: 64.9min
    📸 Fotografando 81490562 (+72s)
-➡️  Trecho 250: 81490562 → 81170065 | Vel: 96km/h | Dist: 10.0km | Tempo: 353s | Bateria: 31.5min
-   📸 Fotografando 81170065 (+72s)
-➡️  Trecho 251: 81170065 → 81560480 | Vel: 96km/h | Dist: 10.9km | Tempo: 383s | Bateria: 25.6min
-   📸 Fotografando 81560480 (+72s)
-➡️  Trecho 252: 81560480 → 80440020 | Vel: 96km/h | Dist: 10.4km | Tempo: 398s | Bateria: 19.2min
-   📸 Fotografando 80440020 (+72s)
-➡️  Trecho 253: 80440020 → 81590210 | Vel: 96km/h | Dist: 11.1km | Tempo: 349s | Bateria: 12.6min
-   📸 Fotografando 81590210 (+72s)
-➡️  Trecho 254: 81590210 → 82821016 | Vel: 96km/h | Dist: 6.1km | Tempo: 235s | Bateria: 6.8min
+📅 Dia 2 - Continuando às 19:06
+➡️  Trecho 50: 81490562 → 81940200 | Vel: 64km/h | Dist: 5.6km | Tempo: 378s | Bateria: 46.4min
+   📸 Fotografando 81940200 (+72s)
+➡️  Trecho 51: 81940200 → 80710600 | Vel: 56km/h | Dist: 15.1km | Tempo: 969s | Bateria: 40.0min
+   📸 Fotografando 80710600 (+72s)
+➡️  Trecho 52: 80710600 → 81670110 | Vel: 64km/h | Dist: 9.8km | Tempo: 655s | Bateria: 23.9min
+   📸 Fotografando 81670110 (+72s)
+➡️  Trecho 53: 81670110 → 82940170 | Vel: 64km/h | Dist: 5.5km | Tempo: 370s | Bateria: 13.0min
+   📸 Fotografando 82940170 (+72s)
+➡️  Trecho 54: 82940170 → 82810080 | Vel: 68km/h | Dist: 1.9km | Tempo: 116s | Bateria: 6.8min
+   📸 Fotografando 82810080 (+72s)
+⚡ RECARGA em 82810080 - R$80,00
+➡️  Trecho 55: 82810080 → 81880240 | Vel: 36km/h | Dist: 14.0km | Tempo: 1051s | Bateria: 77.5min
+   📸 Fotografando 81880240 (+72s)
+➡️  Trecho 56: 81880240 → 80035230 | Vel: 60km/h | Dist: 16.2km | Tempo: 1076s | Bateria: 60.0min
+   📸 Fotografando 80035230 (+72s)
+➡️  Trecho 57: 80035230 → 81550150 | Vel: 64km/h | Dist: 9.3km | Tempo: 603s | Bateria: 42.0min
+   📸 Fotografando 81550150 (+72s)
+➡️  Trecho 58: 81550150 → 82015720 | Vel: 40km/h | Dist: 13.8km | Tempo: 863s | Bateria: 32.0min
+   📸 Fotografando 82015720 (+72s)
+➡️  Trecho 59: 82015720 → 81230480 | Vel: 52km/h | Dist: 5.1km | Tempo: 342s | Bateria: 17.6min
+   📸 Fotografando 81230480 (+72s)
+➡️  Trecho 60: 81230480 → 81220100 | Vel: 72km/h | Dist: 1.7km | Tempo: 110s | Bateria: 11.9min
+   📸 Fotografando 81220100 (+72s)
+➡️  Trecho 61: 81220100 → 81470055 | Vel: 72km/h | Dist: 12.0km | Tempo: 583s | Bateria: 10.1min
+   📸 Fotografando 81470055 (+72s)
+⚡ RECARGA em 81470055 - R$80,00
+➡️  Trecho 62: 81470055 → 81330620 | Vel: 36km/h | Dist: 8.3km | Tempo: 853s | Bateria: 77.5min
+   📸 Fotografando 81330620 (+72s)
+➡️  Trecho 63: 81330620 → 81250482 | Vel: 44km/h | Dist: 0.4km | Tempo: 23s | Bateria: 63.3min
+   📸 Fotografando 81250482 (+72s)
+➡️  Trecho 64: 81250482 → 81450340 | Vel: 40km/h | Dist: 1.2km | Tempo: 72s | Bateria: 62.9min
+   📸 Fotografando 81450340 (+72s)
+➡️  Trecho 65: 81450340 → 81480170 | Vel: 64km/h | Dist: 8.7km | Tempo: 544s | Bateria: 61.7min
+   📸 Fotografando 81480170 (+72s)
+➡️  Trecho 66: 81480170 → 81830580 | Vel: 72km/h | Dist: 7.2km | Tempo: 461s | Bateria: 52.6min
+   📸 Fotografando 81830580 (+72s)
+➡️  Trecho 67: 81830580 → 81260160 | Vel: 40km/h | Dist: 9.8km | Tempo: 617s | Bateria: 45.0min
+   📸 Fotografando 81260160 (+72s)
+➡️  Trecho 68: 81260160 → 81490398 | Vel: 56km/h | Dist: 12.1km | Tempo: 807s | Bateria: 34.7min
+   📸 Fotografando 81490398 (+72s)
+➡️  Trecho 69: 81490398 → 81490010 | Vel: 44km/h | Dist: 2.8km | Tempo: 178s | Bateria: 21.2min
+   📸 Fotografando 81490010 (+72s)
+➡️  Trecho 70: 81490010 → 82821016 | Vel: 96km/h | Dist: 25.5km | Tempo: 1077s | Bateria: 18.2min
    📸 Fotografando 82821016 (+72s)
 ⚡ RECARGA em 82821016 - R$80,00
-➡️  Trecho 255: 82821016 → 81670260 | Vel: 36km/h | Dist: 9.7km | Tempo: 1095s | Bateria: 77.5min
-   📸 Fotografando 81670260 (+72s)
-➡️  Trecho 256: 81670260 → 80045265 | Vel: 96km/h | Dist: 8.2km | Tempo: 297s | Bateria: 59.2min
-   📸 Fotografando 80045265 (+72s)
-➡️  Trecho 257: 80045265 → 81350713 | Vel: 96km/h | Dist: 11.6km | Tempo: 511s | Bateria: 54.3min
-   📸 Fotografando 81350713 (+72s)
-➡️  Trecho 258: 81350713 → 82220142 | Vel: 96km/h | Dist: 15.3km | Tempo: 516s | Bateria: 45.8min
-   📸 Fotografando 82220142 (+72s)
-➡️  Trecho 259: 82220142 → 81900670 | Vel: 96km/h | Dist: 19.0km | Tempo: 713s | Bateria: 37.2min
-   📸 Fotografando 81900670 (+72s)
-➡️  Trecho 260: 81900670 → 81130270 | Vel: 96km/h | Dist: 4.6km | Tempo: 185s | Bateria: 25.3min
-   📸 Fotografando 81130270 (+72s)
-➡️  Trecho 261: 81130270 → 82015640 | Vel: 96km/h | Dist: 10.8km | Tempo: 426s | Bateria: 22.2min
-   📸 Fotografando 82015640 (+72s)
-➡️  Trecho 262: 82015640 → 82710330 | Vel: 96km/h | Dist: 10.6km | Tempo: 343s | Bateria: 15.1min
-   📸 Fotografando 82710330 (+72s)
-⚡ RECARGA em 82710330 - R$80,00
-➡️  Trecho 263: 82710330 → 81470089 | Vel: 36km/h | Dist: 25.0km | Tempo: 2509s | Bateria: 77.5min
-   📸 Fotografando 81470089 (+72s)
-➡️  Trecho 264: 81470089 → 81110240 | Vel: 96km/h | Dist: 8.6km | Tempo: 288s | Bateria: 35.7min
-   📸 Fotografando 81110240 (+72s)
-➡️  Trecho 265: 81110240 → 81570240 | Vel: 96km/h | Dist: 6.5km | Tempo: 204s | Bateria: 30.9min
-   📸 Fotografando 81570240 (+72s)
-➡️  Trecho 266: 81570240 → 81520250 | Vel: 96km/h | Dist: 2.8km | Tempo: 115s | Bateria: 27.5min
-   📸 Fotografando 81520250 (+72s)
-➡️  Trecho 267: 81520250 → 80010040 | Vel: 96km/h | Dist: 3.4km | Tempo: 141s | Bateria: 25.6min
-   📸 Fotografando 80010040 (+72s)
-➡️  Trecho 268: 80010040 → 80820650 | Vel: 96km/h | Dist: 5.4km | Tempo: 247s | Bateria: 23.2min
-   📸 Fotografando 80820650 (+72s)
-➡️  Trecho 269: 80820650 → 81260350 | Vel: 96km/h | Dist: 9.0km | Tempo: 368s | Bateria: 19.1min
-   📸 Fotografando 81260350 (+72s)
-➡️  Trecho 270: 81260350 → 81910550 | Vel: 96km/h | Dist: 10.7km | Tempo: 342s | Bateria: 13.0min
-   📸 Fotografando 81910550 (+72s)
-➡️  Trecho 271: 81910550 → 81490170 | Vel: 96km/h | Dist: 8.7km | Tempo: 382s | Bateria: 7.3min
-   📸 Fotografando 81490170 (+72s)
-⚡ RECARGA em 81490170 - R$80,00
-➡️  Trecho 272: 81490170 → 81280048 | Vel: 36km/h | Dist: 17.3km | Tempo: 1674s | Bateria: 77.5min
-   📸 Fotografando 81280048 (+72s)
-➡️  Trecho 273: 81280048 → 82930370 | Vel: 96km/h | Dist: 15.9km | Tempo: 514s | Bateria: 49.6min
-   📸 Fotografando 82930370 (+72s)
-➡️  Trecho 274: 82930370 → 81850712 | Vel: 96km/h | Dist: 9.0km | Tempo: 372s | Bateria: 41.0min
-   📸 Fotografando 81850712 (+72s)
-➡️  Trecho 275: 81850712 → 82400380 | Vel: 96km/h | Dist: 18.0km | Tempo: 737s | Bateria: 34.8min
-   📸 Fotografando 82400380 (+72s)
-➡️  Trecho 276: 82400380 → 80240660 | Vel: 96km/h | Dist: 9.3km | Tempo: 312s | Bateria: 22.6min
-   📸 Fotografando 80240660 (+72s)
-➡️  Trecho 277: 80240660 → 80210200 | Vel: 96km/h | Dist: 4.9km | Tempo: 158s | Bateria: 17.4min
-   📸 Fotografando 80210200 (+72s)
-➡️  Trecho 278: 80210200 → 82840140 | Vel: 96km/h | Dist: 5.6km | Tempo: 190s | Bateria: 14.7min
-   📸 Fotografando 82840140 (+72s)
-➡️  Trecho 279: 82840140 → 82630290 | Vel: 96km/h | Dist: 3.5km | Tempo: 131s | Bateria: 11.6min
-   📸 Fotografando 82630290 (+72s)
-📅 Dia 4 - Continuando às 19:00
-➡️  Trecho 280: 82630290 → 82200200 | Vel: 96km/h | Dist: 6.4km | Tempo: 261s | Bateria: 9.4min
-   📸 Fotografando 82200200 (+72s)
-➡️  Trecho 281: 82200200 → 80810200 | Vel: 96km/h | Dist: 3.1km | Tempo: 124s | Bateria: 5.0min
-   📸 Fotografando 80810200 (+72s)
-⚡ RECARGA em 80810200 - R$80,00
-➡️  Trecho 282: 80810200 → 82320230 | Vel: 36km/h | Dist: 5.5km | Tempo: 673s | Bateria: 77.5min
-   📸 Fotografando 82320230 (+72s)
-➡️  Trecho 283: 82320230 → 81110190 | Vel: 96km/h | Dist: 12.0km | Tempo: 447s | Bateria: 66.3min
-   📸 Fotografando 81110190 (+72s)
-➡️  Trecho 284: 81110190 → 80510090 | Vel: 96km/h | Dist: 8.6km | Tempo: 308s | Bateria: 58.8min
-   📸 Fotografando 80510090 (+72s)
-➡️  Trecho 285: 80510090 → 81010160 | Vel: 96km/h | Dist: 6.1km | Tempo: 233s | Bateria: 53.7min
-   📸 Fotografando 81010160 (+72s)
-➡️  Trecho 286: 81010160 → 81260210 | Vel: 96km/h | Dist: 7.6km | Tempo: 310s | Bateria: 49.8min
-   📸 Fotografando 81260210 (+72s)
-➡️  Trecho 287: 81260210 → 82100470 | Vel: 96km/h | Dist: 11.2km | Tempo: 395s | Bateria: 44.6min
-   📸 Fotografando 82100470 (+72s)
-➡️  Trecho 288: 82100470 → 82940170 | Vel: 96km/h | Dist: 9.6km | Tempo: 346s | Bateria: 38.1min
-   📸 Fotografando 82940170 (+72s)
-➡️  Trecho 289: 82940170 → 82200216 | Vel: 96km/h | Dist: 8.7km | Tempo: 331s | Bateria: 32.3min
-   📸 Fotografando 82200216 (+72s)
-➡️  Trecho 290: 82200216 → 82950220 | Vel: 96km/h | Dist: 8.9km | Tempo: 328s | Bateria: 26.8min
-   📸 Fotografando 82950220 (+72s)
-➡️  Trecho 291: 82950220 → 82015100 | Vel: 96km/h | Dist: 11.6km | Tempo: 462s | Bateria: 21.3min
-   📸 Fotografando 82015100 (+72s)
-➡️  Trecho 292: 82015100 → 81935437 | Vel: 96km/h | Dist: 17.3km | Tempo: 642s | Bateria: 13.6min
-   📸 Fotografando 81935437 (+72s)
-⚡ RECARGA em 81935437 - R$80,00
-➡️  Trecho 293: 81935437 → 82640710 | Vel: 36km/h | Dist: 20.2km | Tempo: 1806s | Bateria: 77.5min
-   📸 Fotografando 82640710 (+72s)
-➡️  Trecho 294: 82640710 → 81230480 | Vel: 96km/h | Dist: 14.3km | Tempo: 582s | Bateria: 47.4min
-   📸 Fotografando 81230480 (+72s)
-➡️  Trecho 295: 81230480 → 82210230 | Vel: 96km/h | Dist: 11.9km | Tempo: 416s | Bateria: 37.7min
-   📸 Fotografando 82210230 (+72s)
-➡️  Trecho 296: 82210230 → 82650210 | Vel: 96km/h | Dist: 1.6km | Tempo: 56s | Bateria: 30.8min
-   📸 Fotografando 82650210 (+72s)
-➡️  Trecho 297: 82650210 → 81130330 | Vel: 96km/h | Dist: 15.7km | Tempo: 625s | Bateria: 29.8min
-   📸 Fotografando 81130330 (+72s)
-➡️  Trecho 298: 81130330 → 81230392 | Vel: 96km/h | Dist: 6.5km | Tempo: 248s | Bateria: 19.4min
-   📸 Fotografando 81230392 (+72s)
-➡️  Trecho 299: 81230392 → 81920747 | Vel: 96km/h | Dist: 12.0km | Tempo: 433s | Bateria: 15.3min
-   📸 Fotografando 81920747 (+72s)
-➡️  Trecho 300: 81920747 → 82810220 | Vel: 96km/h | Dist: 11.3km | Tempo: 402s | Bateria: 8.1min
-   📸 Fotografando 82810220 (+72s)
-⚡ RECARGA em 82810220 - R$80,00
-➡️  Trecho 301: 82810220 → 81240110 | Vel: 36km/h | Dist: 13.6km | Tempo: 1745s | Bateria: 77.5min
-   📸 Fotografando 81240110 (+72s)
-➡️  Trecho 302: 81240110 → 81450195 | Vel: 96km/h | Dist: 2.8km | Tempo: 112s | Bateria: 48.4min
-   📸 Fotografando 81450195 (+72s)
-➡️  Trecho 303: 81450195 → 81350712 | Vel: 96km/h | Dist: 1.7km | Tempo: 56s | Bateria: 46.5min
-   📸 Fotografando 81350712 (+72s)
-➡️  Trecho 304: 81350712 → 80250220 | Vel: 96km/h | Dist: 8.6km | Tempo: 292s | Bateria: 45.6min
-   📸 Fotografando 80250220 (+72s)
-➡️  Trecho 305: 80250220 → 82960472 | Vel: 96km/h | Dist: 7.2km | Tempo: 250s | Bateria: 40.8min
-   📸 Fotografando 82960472 (+72s)
-➡️  Trecho 306: 82960472 → 80510360 | Vel: 96km/h | Dist: 9.0km | Tempo: 359s | Bateria: 36.6min
-   📸 Fotografando 80510360 (+72s)
-➡️  Trecho 307: 80510360 → 80030200 | Vel: 96km/h | Dist: 2.6km | Tempo: 87s | Bateria: 30.6min
-   📸 Fotografando 80030200 (+72s)
-➡️  Trecho 308: 80030200 → 80030010 | Vel: 96km/h | Dist: 0.8km | Tempo: 35s | Bateria: 29.1min
-   📸 Fotografando 80030010 (+72s)
-➡️  Trecho 309: 80030010 → 81280125 | Vel: 96km/h | Dist: 9.5km | Tempo: 403s | Bateria: 28.6min
-   📸 Fotografando 81280125 (+72s)
-➡️  Trecho 310: 81280125 → 82530380 | Vel: 96km/h | Dist: 12.8km | Tempo: 432s | Bateria: 21.9min
+➡️  Trecho 71: 82821016 → 80520550 | Vel: 36km/h | Dist: 7.3km | Tempo: 488s | Bateria: 77.5min
+   📸 Fotografando 80520550 (+72s)
+➡️  Trecho 72: 80520550 → 82820460 | Vel: 76km/h | Dist: 5.7km | Tempo: 358s | Bateria: 69.4min
+   📸 Fotografando 82820460 (+72s)
+➡️  Trecho 73: 82820460 → 82710082 | Vel: 48km/h | Dist: 6.6km | Tempo: 422s | Bateria: 63.4min
+   📸 Fotografando 82710082 (+72s)
+➡️  Trecho 74: 82710082 → 81830020 | Vel: 52km/h | Dist: 16.5km | Tempo: 1105s | Bateria: 56.4min
+   📸 Fotografando 81830020 (+72s)
+➡️  Trecho 75: 81830020 → 82990150 | Vel: 72km/h | Dist: 9.4km | Tempo: 594s | Bateria: 38.0min
+   📸 Fotografando 82990150 (+72s)
+➡️  Trecho 76: 82990150 → 82900480 | Vel: 40km/h | Dist: 2.8km | Tempo: 182s | Bateria: 28.1min
+   📸 Fotografando 82900480 (+72s)
+➡️  Trecho 77: 82900480 → 82220610 | Vel: 44km/h | Dist: 9.6km | Tempo: 640s | Bateria: 25.0min
+   📸 Fotografando 82220610 (+72s)
+➡️  Trecho 78: 82220610 → 81920735 | Vel: 80km/h | Dist: 18.5km | Tempo: 841s | Bateria: 14.3min
+   📸 Fotografando 81920735 (+72s)
+⚡ RECARGA em 81920735 - R$80,00
+➡️  Trecho 79: 81920735 → 82600640 | Vel: 36km/h | Dist: 16.3km | Tempo: 1863s | Bateria: 77.5min
+   📸 Fotografando 82600640 (+72s)
+➡️  Trecho 80: 82600640 → 80810020 | Vel: 40km/h | Dist: 8.3km | Tempo: 539s | Bateria: 46.5min
+   📸 Fotografando 80810020 (+72s)
+➡️  Trecho 81: 80810020 → 82315100 | Vel: 44km/h | Dist: 6.1km | Tempo: 365s | Bateria: 37.5min
+   📸 Fotografando 82315100 (+72s)
+➡️  Trecho 82: 82315100 → 82410316 | Vel: 68km/h | Dist: 4.3km | Tempo: 267s | Bateria: 31.4min
+   📸 Fotografando 82410316 (+72s)
+➡️  Trecho 83: 82410316 → 81330550 | Vel: 56km/h | Dist: 11.1km | Tempo: 722s | Bateria: 26.9min
+   📸 Fotografando 81330550 (+72s)
+➡️  Trecho 84: 81330550 → 81570092 | Vel: 72km/h | Dist: 8.5km | Tempo: 547s | Bateria: 14.9min
+   📸 Fotografando 81570092 (+72s)
+➡️  Trecho 85: 81570092 → 80820500 | Vel: 92km/h | Dist: 9.7km | Tempo: 342s | Bateria: 5.8min
+   📸 Fotografando 80820500 (+72s)
+⚡ RECARGA em 80820500 - R$80,00
+➡️  Trecho 86: 80820500 → 81170662 | Vel: 36km/h | Dist: 12.0km | Tempo: 1128s | Bateria: 77.5min
+   📸 Fotografando 81170662 (+72s)
+➡️  Trecho 87: 81170662 → 82960518 | Vel: 72km/h | Dist: 13.3km | Tempo: 835s | Bateria: 58.7min
+   📸 Fotografando 82960518 (+72s)
+➡️  Trecho 88: 82960518 → 81480050 | Vel: 44km/h | Dist: 15.8km | Tempo: 988s | Bateria: 44.8min
+   📸 Fotografando 81480050 (+72s)
+➡️  Trecho 89: 81480050 → 81490400 | Vel: 44km/h | Dist: 4.3km | Tempo: 282s | Bateria: 28.3min
+   📸 Fotografando 81490400 (+72s)
+➡️  Trecho 90: 81490400 → 81470255 | Vel: 56km/h | Dist: 2.9km | Tempo: 185s | Bateria: 23.6min
+   📸 Fotografando 81470255 (+72s)
+➡️  Trecho 91: 81470255 → 81250610 | Vel: 56km/h | Dist: 8.5km | Tempo: 539s | Bateria: 20.5min
+   📸 Fotografando 81250610 (+72s)
+➡️  Trecho 92: 81250610 → 81710380 | Vel: 76km/h | Dist: 8.2km | Tempo: 517s | Bateria: 11.6min
+   📸 Fotografando 81710380 (+72s)
+⚡ RECARGA em 81710380 - R$80,00
+➡️  Trecho 93: 81710380 → 81490370 | Vel: 36km/h | Dist: 13.2km | Tempo: 1019s | Bateria: 77.5min
+   📸 Fotografando 81490370 (+72s)
+➡️  Trecho 94: 81490370 → 81925578 | Vel: 72km/h | Dist: 8.2km | Tempo: 524s | Bateria: 60.5min
+   📸 Fotografando 81925578 (+72s)
+➡️  Trecho 95: 81925578 → 81490280 | Vel: 44km/h | Dist: 7.5km | Tempo: 468s | Bateria: 51.8min
+   📸 Fotografando 81490280 (+72s)
+➡️  Trecho 96: 81490280 → 81350320 | Vel: 52km/h | Dist: 11.0km | Tempo: 739s | Bateria: 44.0min
+   📸 Fotografando 81350320 (+72s)
+➡️  Trecho 97: 81350320 → 82990198 | Vel: 76km/h | Dist: 14.2km | Tempo: 880s | Bateria: 31.7min
+   📸 Fotografando 82990198 (+72s)
+➡️  Trecho 98: 82990198 → 82530380 | Vel: 44km/h | Dist: 4.5km | Tempo: 279s | Bateria: 17.0min
    📸 Fotografando 82530380 (+72s)
-➡️  Trecho 311: 82530380 → 80530210 | Vel: 96km/h | Dist: 3.7km | Tempo: 149s | Bateria: 14.7min
-   📸 Fotografando 80530210 (+72s)
-➡️  Trecho 312: 80530210 → 81240490 | Vel: 96km/h | Dist: 9.9km | Tempo: 413s | Bateria: 12.2min
+➡️  Trecho 99: 82530380 → 82700540 | Vel: 48km/h | Dist: 7.0km | Tempo: 467s | Bateria: 12.3min
+   📸 Fotografando 82700540 (+72s)
+⚡ RECARGA em 82700540 - R$80,00
+➡️  Trecho 100: 82700540 → 81580050 | Vel: 36km/h | Dist: 13.7km | Tempo: 1548s | Bateria: 77.5min
+   📸 Fotografando 81580050 (+72s)
+➡️  Trecho 101: 81580050 → 82100620 | Vel: 44km/h | Dist: 13.3km | Tempo: 858s | Bateria: 51.7min
+   📸 Fotografando 82100620 (+72s)
+➡️  Trecho 102: 82100620 → 81920230 | Vel: 60km/h | Dist: 16.8km | Tempo: 1097s | Bateria: 37.4min
+   📸 Fotografando 81920230 (+72s)
+📅 Dia 3 - Continuando às 19:12
+➡️  Trecho 103: 81920230 → 81070310 | Vel: 52km/h | Dist: 8.1km | Tempo: 540s | Bateria: 19.1min
+   📸 Fotografando 81070310 (+72s)
+➡️  Trecho 104: 81070310 → 81550315 | Vel: 76km/h | Dist: 10.1km | Tempo: 577s | Bateria: 10.1min
+   📸 Fotografando 81550315 (+72s)
+⚡ RECARGA em 81550315 - R$80,00
+➡️  Trecho 105: 81550315 → 82100440 | Vel: 36km/h | Dist: 13.5km | Tempo: 1204s | Bateria: 77.5min
+   📸 Fotografando 82100440 (+72s)
+➡️  Trecho 106: 82100440 → 82990000 | Vel: 64km/h | Dist: 12.3km | Tempo: 779s | Bateria: 57.4min
+   📸 Fotografando 82990000 (+72s)
+➡️  Trecho 107: 82990000 → 82630100 | Vel: 56km/h | Dist: 9.3km | Tempo: 634s | Bateria: 44.5min
+   📸 Fotografando 82630100 (+72s)
+➡️  Trecho 108: 82630100 → 80045270 | Vel: 44km/h | Dist: 6.1km | Tempo: 390s | Bateria: 33.9min
+   📸 Fotografando 80045270 (+72s)
+➡️  Trecho 109: 80045270 → 81050411 | Vel: 44km/h | Dist: 8.4km | Tempo: 526s | Bateria: 27.4min
+   📸 Fotografando 81050411 (+72s)
+➡️  Trecho 110: 81050411 → 81590220 | Vel: 72km/h | Dist: 10.8km | Tempo: 669s | Bateria: 18.6min
+   📸 Fotografando 81590220 (+72s)
+➡️  Trecho 111: 81590220 → 82860360 | Vel: 96km/h | Dist: 11.1km | Tempo: 443s | Bateria: 7.5min
+   📸 Fotografando 82860360 (+72s)
+⚡ RECARGA em 82860360 - R$80,00
+➡️  Trecho 112: 82860360 → 80045160 | Vel: 36km/h | Dist: 7.7km | Tempo: 547s | Bateria: 77.5min
+   📸 Fotografando 80045160 (+72s)
+➡️  Trecho 113: 80045160 → 81470300 | Vel: 44km/h | Dist: 18.8km | Tempo: 1228s | Bateria: 68.4min
+   📸 Fotografando 81470300 (+72s)
+➡️  Trecho 114: 81470300 → 82510100 | Vel: 72km/h | Dist: 21.0km | Tempo: 1356s | Bateria: 47.9min
+   📸 Fotografando 82510100 (+72s)
+➡️  Trecho 115: 82510100 → 81510390 | Vel: 44km/h | Dist: 6.6km | Tempo: 421s | Bateria: 25.3min
+   📸 Fotografando 81510390 (+72s)
+➡️  Trecho 116: 81510390 → 80050435 | Vel: 68km/h | Dist: 4.2km | Tempo: 270s | Bateria: 18.3min
+   📸 Fotografando 80050435 (+72s)
+➡️  Trecho 117: 80050435 → 81670260 | Vel: 44km/h | Dist: 8.2km | Tempo: 516s | Bateria: 13.8min
+   📸 Fotografando 81670260 (+72s)
+➡️  Trecho 118: 81670260 → 82960200 | Vel: 88km/h | Dist: 5.9km | Tempo: 301s | Bateria: 5.2min
+   📸 Fotografando 82960200 (+72s)
+⚡ RECARGA em 82960200 - R$80,00
+➡️  Trecho 119: 82960200 → 81870352 | Vel: 36km/h | Dist: 10.4km | Tempo: 707s | Bateria: 77.5min
+   📸 Fotografando 81870352 (+72s)
+➡️  Trecho 120: 81870352 → 81650170 | Vel: 72km/h | Dist: 7.5km | Tempo: 483s | Bateria: 65.7min
+   📸 Fotografando 81650170 (+72s)
+➡️  Trecho 121: 81650170 → 82630494 | Vel: 68km/h | Dist: 13.4km | Tempo: 867s | Bateria: 57.7min
+   📸 Fotografando 82630494 (+72s)
+➡️  Trecho 122: 82630494 → 81935446 | Vel: 44km/h | Dist: 20.1km | Tempo: 1258s | Bateria: 43.2min
+   📸 Fotografando 81935446 (+72s)
+➡️  Trecho 123: 81935446 → 81720360 | Vel: 68km/h | Dist: 3.4km | Tempo: 213s | Bateria: 22.2min
+   📸 Fotografando 81720360 (+72s)
+➡️  Trecho 124: 81720360 → 81350607 | Vel: 48km/h | Dist: 8.6km | Tempo: 543s | Bateria: 18.7min
+   📸 Fotografando 81350607 (+72s)
+➡️  Trecho 125: 81350607 → 80820520 | Vel: 88km/h | Dist: 11.5km | Tempo: 573s | Bateria: 9.7min
+   📸 Fotografando 80820520 (+72s)
+⚡ RECARGA em 80820520 - R$80,00
+➡️  Trecho 126: 80820520 → 80330250 | Vel: 36km/h | Dist: 6.3km | Tempo: 455s | Bateria: 77.5min
+   📸 Fotografando 80330250 (+72s)
+➡️  Trecho 127: 80330250 → 81910160 | Vel: 52km/h | Dist: 7.9km | Tempo: 526s | Bateria: 69.9min
+   📸 Fotografando 81910160 (+72s)
+➡️  Trecho 128: 81910160 → 81480160 | Vel: 48km/h | Dist: 5.5km | Tempo: 358s | Bateria: 61.1min
+   📸 Fotografando 81480160 (+72s)
+➡️  Trecho 129: 81480160 → 82600750 | Vel: 64km/h | Dist: 20.7km | Tempo: 1321s | Bateria: 55.2min
+   📸 Fotografando 82600750 (+72s)
+➡️  Trecho 130: 82600750 → 82800310 | Vel: 48km/h | Dist: 4.6km | Tempo: 304s | Bateria: 33.2min
+   📸 Fotografando 82800310 (+72s)
+➡️  Trecho 131: 82800310 → 81590576 | Vel: 52km/h | Dist: 6.9km | Tempo: 452s | Bateria: 28.1min
+   📸 Fotografando 81590576 (+72s)
+➡️  Trecho 132: 81590576 → 81750200 | Vel: 48km/h | Dist: 4.9km | Tempo: 317s | Bateria: 20.6min
+   📸 Fotografando 81750200 (+72s)
+➡️  Trecho 133: 81750200 → 81110330 | Vel: 52km/h | Dist: 4.3km | Tempo: 278s | Bateria: 15.3min
+   📸 Fotografando 81110330 (+72s)
+➡️  Trecho 134: 81110330 → 81510040 | Vel: 64km/h | Dist: 6.2km | Tempo: 400s | Bateria: 10.7min
+   📸 Fotografando 81510040 (+72s)
+➡️  Trecho 135: 81510040 → 80510360 | Vel: 92km/h | Dist: 6.0km | Tempo: 237s | Bateria: 4.0min
+   📸 Fotografando 80510360 (+72s)
+⚡ RECARGA em 80510360 - R$80,00
+➡️  Trecho 136: 80510360 → 80240550 | Vel: 36km/h | Dist: 4.2km | Tempo: 345s | Bateria: 77.5min
+   📸 Fotografando 80240550 (+72s)
+➡️  Trecho 137: 80240550 → 82530060 | Vel: 64km/h | Dist: 7.5km | Tempo: 476s | Bateria: 71.8min
+   📸 Fotografando 82530060 (+72s)
+➡️  Trecho 138: 82530060 → 80010160 | Vel: 56km/h | Dist: 3.4km | Tempo: 230s | Bateria: 63.8min
+   📸 Fotografando 80010160 (+72s)
+➡️  Trecho 139: 80010160 → 80060170 | Vel: 52km/h | Dist: 3.5km | Tempo: 214s | Bateria: 60.0min
+   📸 Fotografando 80060170 (+72s)
+➡️  Trecho 140: 80060170 → 81910390 | Vel: 48km/h | Dist: 11.5km | Tempo: 774s | Bateria: 56.4min
+   📸 Fotografando 81910390 (+72s)
+➡️  Trecho 141: 81910390 → 81850680 | Vel: 60km/h | Dist: 2.3km | Tempo: 140s | Bateria: 43.5min
+   📸 Fotografando 81850680 (+72s)
+➡️  Trecho 142: 81850680 → 82960472 | Vel: 64km/h | Dist: 9.2km | Tempo: 581s | Bateria: 41.2min
+   📸 Fotografando 82960472 (+72s)
+➡️  Trecho 143: 82960472 → 80820350 | Vel: 40km/h | Dist: 10.3km | Tempo: 664s | Bateria: 31.5min
+   📸 Fotografando 80820350 (+72s)
+➡️  Trecho 144: 80820350 → 81050637 | Vel: 52km/h | Dist: 8.4km | Tempo: 531s | Bateria: 20.4min
+   📸 Fotografando 81050637 (+72s)
+➡️  Trecho 145: 81050637 → 82015100 | Vel: 52km/h | Dist: 7.4km | Tempo: 485s | Bateria: 11.6min
+   📸 Fotografando 82015100 (+72s)
+⚡ RECARGA em 82015100 - R$80,00
+➡️  Trecho 146: 82015100 → 81900670 | Vel: 36km/h | Dist: 14.9km | Tempo: 1771s | Bateria: 77.5min
+   📸 Fotografando 81900670 (+72s)
+➡️  Trecho 147: 81900670 → 81910550 | Vel: 76km/h | Dist: 2.7km | Tempo: 166s | Bateria: 48.0min
+   📸 Fotografando 81910550 (+72s)
+➡️  Trecho 148: 81910550 → 80510090 | Vel: 52km/h | Dist: 12.7km | Tempo: 825s | Bateria: 45.2min
+   📸 Fotografando 80510090 (+72s)
+➡️  Trecho 149: 80510090 → 81350712 | Vel: 44km/h | Dist: 10.0km | Tempo: 652s | Bateria: 31.5min
+   📸 Fotografando 81350712 (+72s)
+➡️  Trecho 150: 81350712 → 81452334 | Vel: 44km/h | Dist: 2.0km | Tempo: 120s | Bateria: 20.6min
+   📸 Fotografando 81452334 (+72s)
+➡️  Trecho 151: 81452334 → 81130330 | Vel: 80km/h | Dist: 4.8km | Tempo: 288s | Bateria: 18.6min
+   📸 Fotografando 81130330 (+72s)
+➡️  Trecho 152: 81130330 → 82520150 | Vel: 68km/h | Dist: 12.9km | Tempo: 813s | Bateria: 13.8min
+   📸 Fotografando 82520150 (+72s)
+⚡ RECARGA em 82520150 - R$80,00
+➡️  Trecho 153: 82520150 → 80030010 | Vel: 36km/h | Dist: 3.3km | Tempo: 217s | Bateria: 77.5min
+   📸 Fotografando 80030010 (+72s)
+➡️  Trecho 154: 80030010 → 82300430 | Vel: 40km/h | Dist: 8.0km | Tempo: 480s | Bateria: 73.9min
+   📸 Fotografando 82300430 (+72s)
+➡️  Trecho 155: 82300430 → 81935382 | Vel: 64km/h | Dist: 18.1km | Tempo: 1171s | Bateria: 65.9min
+   📸 Fotografando 81935382 (+72s)
+➡️  Trecho 156: 81935382 → 80220380 | Vel: 56km/h | Dist: 10.8km | Tempo: 689s | Bateria: 46.4min
+   📸 Fotografando 80220380 (+72s)
+➡️  Trecho 157: 80220380 → 81460140 | Vel: 48km/h | Dist: 11.1km | Tempo: 720s | Bateria: 34.9min
+   📸 Fotografando 81460140 (+72s)
+➡️  Trecho 158: 81460140 → 81710590 | Vel: 68km/h | Dist: 7.1km | Tempo: 443s | Bateria: 22.9min
+   📸 Fotografando 81710590 (+72s)
+📅 Dia 4 - Continuando às 19:00
+➡️  Trecho 159: 81710590 → 80540290 | Vel: 60km/h | Dist: 10.7km | Tempo: 672s | Bateria: 15.5min
+   📸 Fotografando 80540290 (+72s)
+➡️  Trecho 160: 80540290 → 82520040 | Vel: 64km/h | Dist: 3.8km | Tempo: 237s | Bateria: 4.3min
+   📸 Fotografando 82520040 (+72s)
+⚡ RECARGA em 82520040 - R$80,00
+➡️  Trecho 161: 82520040 → 82650210 | Vel: 36km/h | Dist: 4.2km | Tempo: 418s | Bateria: 77.5min
+   📸 Fotografando 82650210 (+72s)
+➡️  Trecho 162: 82650210 → 82220133 | Vel: 48km/h | Dist: 1.6km | Tempo: 109s | Bateria: 70.5min
+   📸 Fotografando 82220133 (+72s)
+➡️  Trecho 163: 82220133 → 80740199 | Vel: 48km/h | Dist: 9.0km | Tempo: 594s | Bateria: 68.7min
+   📸 Fotografando 80740199 (+72s)
+➡️  Trecho 164: 80740199 → 81200390 | Vel: 48km/h | Dist: 3.3km | Tempo: 223s | Bateria: 58.8min
+   📸 Fotografando 81200390 (+72s)
+➡️  Trecho 165: 81200390 → 81570240 | Vel: 60km/h | Dist: 12.9km | Tempo: 852s | Bateria: 55.1min
+   📸 Fotografando 81570240 (+72s)
+➡️  Trecho 166: 81570240 → 81490620 | Vel: 48km/h | Dist: 18.2km | Tempo: 1198s | Bateria: 40.9min
+   📸 Fotografando 81490620 (+72s)
+➡️  Trecho 167: 81490620 → 81250720 | Vel: 56km/h | Dist: 14.7km | Tempo: 993s | Bateria: 20.9min
+   📸 Fotografando 81250720 (+72s)
+➡️  Trecho 168: 81250720 → 81280125 | Vel: 72km/h | Dist: 5.0km | Tempo: 251s | Bateria: 4.4min
+   📸 Fotografando 81280125 (+72s)
+⚡ RECARGA em 81280125 - R$80,00
+➡️  Trecho 169: 81280125 → 81350713 | Vel: 36km/h | Dist: 6.6km | Tempo: 658s | Bateria: 77.5min
+   📸 Fotografando 81350713 (+72s)
+➡️  Trecho 170: 81350713 → 81220170 | Vel: 60km/h | Dist: 4.7km | Tempo: 307s | Bateria: 66.5min
+   📸 Fotografando 81220170 (+72s)
+➡️  Trecho 171: 81220170 → 80530040 | Vel: 64km/h | Dist: 6.3km | Tempo: 406s | Bateria: 61.4min
+   📸 Fotografando 80530040 (+72s)
+➡️  Trecho 172: 80530040 → 80220200 | Vel: 52km/h | Dist: 5.1km | Tempo: 318s | Bateria: 54.6min
+   📸 Fotografando 80220200 (+72s)
+➡️  Trecho 173: 80220200 → 80820310 | Vel: 56km/h | Dist: 6.6km | Tempo: 445s | Bateria: 49.4min
+   📸 Fotografando 80820310 (+72s)
+➡️  Trecho 174: 80820310 → 80710040 | Vel: 48km/h | Dist: 2.0km | Tempo: 123s | Bateria: 41.9min
+   📸 Fotografando 80710040 (+72s)
+➡️  Trecho 175: 80710040 → 81110522 | Vel: 52km/h | Dist: 9.9km | Tempo: 648s | Bateria: 39.9min
+   📸 Fotografando 81110522 (+72s)
+➡️  Trecho 176: 81110522 → 81305650 | Vel: 48km/h | Dist: 3.3km | Tempo: 212s | Bateria: 29.1min
+   📸 Fotografando 81305650 (+72s)
+➡️  Trecho 177: 81305650 → 82115020 | Vel: 64km/h | Dist: 13.4km | Tempo: 846s | Bateria: 25.6min
+   📸 Fotografando 82115020 (+72s)
+➡️  Trecho 178: 82115020 → 80030200 | Vel: 60km/h | Dist: 4.6km | Tempo: 287s | Bateria: 11.4min
+   📸 Fotografando 80030200 (+72s)
+➡️  Trecho 179: 80030200 → 82930390 | Vel: 72km/h | Dist: 7.2km | Tempo: 389s | Bateria: 6.7min
+   📸 Fotografando 82930390 (+72s)
+⚡ RECARGA em 82930390 - R$80,00
+➡️  Trecho 180: 82930390 → 82640640 | Vel: 36km/h | Dist: 10.6km | Tempo: 1071s | Bateria: 77.5min
+   📸 Fotografando 82640640 (+72s)
+➡️  Trecho 181: 82640640 → 82650060 | Vel: 44km/h | Dist: 1.1km | Tempo: 76s | Bateria: 59.6min
+   📸 Fotografando 82650060 (+72s)
+➡️  Trecho 182: 82650060 → 82520590 | Vel: 56km/h | Dist: 4.0km | Tempo: 257s | Bateria: 58.4min
+   📸 Fotografando 82520590 (+72s)
+➡️  Trecho 183: 82520590 → 82220470 | Vel: 52km/h | Dist: 7.9km | Tempo: 517s | Bateria: 54.1min
+   📸 Fotografando 82220470 (+72s)
+➡️  Trecho 184: 82220470 → 82930000 | Vel: 56km/h | Dist: 12.5km | Tempo: 831s | Bateria: 45.5min
+   📸 Fotografando 82930000 (+72s)
+➡️  Trecho 185: 82930000 → 81510570 | Vel: 44km/h | Dist: 4.3km | Tempo: 281s | Bateria: 31.6min
+   📸 Fotografando 81510570 (+72s)
+➡️  Trecho 186: 81510570 → 81550490 | Vel: 60km/h | Dist: 4.2km | Tempo: 288s | Bateria: 26.9min
+   📸 Fotografando 81550490 (+72s)
+➡️  Trecho 187: 81550490 → 81850650 | Vel: 48km/h | Dist: 6.7km | Tempo: 420s | Bateria: 22.1min
+   📸 Fotografando 81850650 (+72s)
+➡️  Trecho 188: 81850650 → 82130282 | Vel: 76km/h | Dist: 18.1km | Tempo: 887s | Bateria: 15.2min
+   📸 Fotografando 82130282 (+72s)
+⚡ RECARGA em 82130282 - R$80,00
+➡️  Trecho 189: 82130282 → 81265330 | Vel: 36km/h | Dist: 13.9km | Tempo: 1087s | Bateria: 77.5min
+   📸 Fotografando 81265330 (+72s)
+➡️  Trecho 190: 81265330 → 80820480 | Vel: 64km/h | Dist: 9.8km | Tempo: 628s | Bateria: 59.4min
+   📸 Fotografando 80820480 (+72s)
+➡️  Trecho 191: 80820480 → 81260430 | Vel: 48km/h | Dist: 8.6km | Tempo: 553s | Bateria: 48.9min
+   📸 Fotografando 81260430 (+72s)
+➡️  Trecho 192: 81260430 → 81460210 | Vel: 52km/h | Dist: 8.0km | Tempo: 518s | Bateria: 39.7min
+   📸 Fotografando 81460210 (+72s)
+➡️  Trecho 193: 81460210 → 81920747 | Vel: 60km/h | Dist: 8.1km | Tempo: 538s | Bateria: 31.1min
+   📸 Fotografando 81920747 (+72s)
+➡️  Trecho 194: 81920747 → 81810492 | Vel: 56km/h | Dist: 3.7km | Tempo: 248s | Bateria: 22.1min
+   📸 Fotografando 81810492 (+72s)
+➡️  Trecho 195: 81810492 → 81030180 | Vel: 60km/h | Dist: 3.2km | Tempo: 217s | Bateria: 18.0min
+   📸 Fotografando 81030180 (+72s)
+➡️  Trecho 196: 81030180 → 80215542 | Vel: 64km/h | Dist: 3.6km | Tempo: 229s | Bateria: 14.3min
+   📸 Fotografando 80215542 (+72s)
+➡️  Trecho 197: 80215542 → 81150330 | Vel: 52km/h | Dist: 10.0km | Tempo: 602s | Bateria: 10.5min
+   📸 Fotografando 81150330 (+72s)
+⚡ RECARGA em 81150330 - R$80,00
+➡️  Trecho 198: 81150330 → 80510325 | Vel: 36km/h | Dist: 11.7km | Tempo: 1438s | Bateria: 77.5min
+   📸 Fotografando 80510325 (+72s)
+➡️  Trecho 199: 80510325 → 82200440 | Vel: 64km/h | Dist: 3.3km | Tempo: 209s | Bateria: 53.5min
+   📸 Fotografando 82200440 (+72s)
+➡️  Trecho 200: 82200440 → 81250190 | Vel: 48km/h | Dist: 12.6km | Tempo: 813s | Bateria: 50.0min
+   📸 Fotografando 81250190 (+72s)
+➡️  Trecho 201: 81250190 → 80010040 | Vel: 64km/h | Dist: 10.3km | Tempo: 658s | Bateria: 36.5min
+   📸 Fotografando 80010040 (+72s)
+➡️  Trecho 202: 80010040 → 81050610 | Vel: 48km/h | Dist: 7.7km | Tempo: 499s | Bateria: 25.5min
+   📸 Fotografando 81050610 (+72s)
+➡️  Trecho 203: 81050610 → 82130162 | Vel: 60km/h | Dist: 12.2km | Tempo: 781s | Bateria: 17.2min
+   📸 Fotografando 82130162 (+72s)
+⚡ RECARGA em 82130162 - R$80,00
+➡️  Trecho 204: 82130162 → 82320340 | Vel: 36km/h | Dist: 8.2km | Tempo: 630s | Bateria: 77.5min
+   📸 Fotografando 82320340 (+72s)
+➡️  Trecho 205: 82320340 → 81650080 | Vel: 64km/h | Dist: 14.5km | Tempo: 942s | Bateria: 67.0min
+   📸 Fotografando 81650080 (+72s)
+➡️  Trecho 206: 81650080 → 81010160 | Vel: 48km/h | Dist: 3.9km | Tempo: 240s | Bateria: 51.3min
+   📸 Fotografando 81010160 (+72s)
+➡️  Trecho 207: 81010160 → 81830300 | Vel: 56km/h | Dist: 5.3km | Tempo: 358s | Bateria: 47.3min
+   📸 Fotografando 81830300 (+72s)
+➡️  Trecho 208: 81830300 → 81580179 | Vel: 64km/h | Dist: 5.0km | Tempo: 328s | Bateria: 41.3min
+   📸 Fotografando 81580179 (+72s)
+➡️  Trecho 209: 81580179 → 80730430 | Vel: 48km/h | Dist: 10.2km | Tempo: 663s | Bateria: 35.9min
+   📸 Fotografando 80730430 (+72s)
+➡️  Trecho 210: 80730430 → 82400000 | Vel: 48km/h | Dist: 5.3km | Tempo: 339s | Bateria: 24.8min
+   📸 Fotografando 82400000 (+72s)
+➡️  Trecho 211: 82400000 → 81570360 | Vel: 64km/h | Dist: 14.2km | Tempo: 917s | Bateria: 19.2min
+   📸 Fotografando 81570360 (+72s)
+⚡ RECARGA em 81570360 - R$80,00
+➡️  Trecho 212: 81570360 → 82840120 | Vel: 36km/h | Dist: 9.0km | Tempo: 944s | Bateria: 77.5min
+   📸 Fotografando 82840120 (+72s)
+➡️  Trecho 213: 82840120 → 81250210 | Vel: 44km/h | Dist: 15.3km | Tempo: 1028s | Bateria: 61.8min
+   📸 Fotografando 81250210 (+72s)
+➡️  Trecho 214: 81250210 → 82650470 | Vel: 64km/h | Dist: 15.8km | Tempo: 1004s | Bateria: 44.6min
+   📸 Fotografando 82650470 (+72s)
+➡️  Trecho 215: 82650470 → 81870310 | Vel: 52km/h | Dist: 17.8km | Tempo: 1170s | Bateria: 27.9min
+   📸 Fotografando 81870310 (+72s)
+➡️  Trecho 216: 81870310 → 80250220 | Vel: 72km/h | Dist: 9.4km | Tempo: 481s | Bateria: 8.4min
+   📸 Fotografando 80250220 (+72s)
+📅 Dia 5 - Continuando às 19:06
+⚡ RECARGA em 80250220 - R$80,00
+➡️  Trecho 217: 80250220 → 82930030 | Vel: 36km/h | Dist: 7.5km | Tempo: 702s | Bateria: 77.5min
+   📸 Fotografando 82930030 (+72s)
+➡️  Trecho 218: 82930030 → 80210200 | Vel: 56km/h | Dist: 4.2km | Tempo: 283s | Bateria: 65.8min
+   📸 Fotografando 80210200 (+72s)
+➡️  Trecho 219: 80210200 → 81520300 | Vel: 56km/h | Dist: 2.2km | Tempo: 145s | Bateria: 61.1min
+   📸 Fotografando 81520300 (+72s)
+➡️  Trecho 220: 81520300 → 80440020 | Vel: 56km/h | Dist: 6.3km | Tempo: 420s | Bateria: 58.7min
+   📸 Fotografando 80440020 (+72s)
+➡️  Trecho 221: 80440020 → 81470290 | Vel: 56km/h | Dist: 15.1km | Tempo: 1005s | Bateria: 51.7min
+   📸 Fotografando 81470290 (+72s)
+➡️  Trecho 222: 81470290 → 81315685 | Vel: 52km/h | Dist: 7.1km | Tempo: 476s | Bateria: 34.9min
+   📸 Fotografando 81315685 (+72s)
+➡️  Trecho 223: 81315685 → 81560570 | Vel: 52km/h | Dist: 11.7km | Tempo: 766s | Bateria: 27.0min
+   📸 Fotografando 81560570 (+72s)
+➡️  Trecho 224: 81560570 → 81650050 | Vel: 60km/h | Dist: 2.5km | Tempo: 160s | Bateria: 14.2min
+   📸 Fotografando 81650050 (+72s)
+➡️  Trecho 225: 81650050 → 80215650 | Vel: 56km/h | Dist: 5.2km | Tempo: 331s | Bateria: 11.6min
+   📸 Fotografando 80215650 (+72s)
+⚡ RECARGA em 80215650 - R$80,00
+➡️  Trecho 226: 80215650 → 81490170 | Vel: 36km/h | Dist: 17.1km | Tempo: 1828s | Bateria: 77.5min
+   📸 Fotografando 81490170 (+72s)
+➡️  Trecho 227: 81490170 → 81945040 | Vel: 60km/h | Dist: 1.9km | Tempo: 115s | Bateria: 47.0min
+   📸 Fotografando 81945040 (+72s)
+➡️  Trecho 228: 81945040 → 81230392 | Vel: 56km/h | Dist: 16.0km | Tempo: 1018s | Bateria: 45.1min
+   📸 Fotografando 81230392 (+72s)
+➡️  Trecho 229: 81230392 → 82620150 | Vel: 52km/h | Dist: 14.7km | Tempo: 966s | Bateria: 28.1min
+   📸 Fotografando 82620150 (+72s)
+➡️  Trecho 230: 82620150 → 82100470 | Vel: 60km/h | Dist: 7.7km | Tempo: 485s | Bateria: 12.1min
+   📸 Fotografando 82100470 (+72s)
+⚡ RECARGA em 82100470 - R$80,00
+➡️  Trecho 231: 82100470 → 82310433 | Vel: 36km/h | Dist: 8.6km | Tempo: 934s | Bateria: 77.5min
+   📸 Fotografando 82310433 (+72s)
+➡️  Trecho 232: 82310433 → 81312000 | Vel: 52km/h | Dist: 9.9km | Tempo: 674s | Bateria: 61.9min
+   📸 Fotografando 81312000 (+72s)
+➡️  Trecho 233: 81312000 → 80240660 | Vel: 52km/h | Dist: 5.9km | Tempo: 394s | Bateria: 50.7min
+   📸 Fotografando 80240660 (+72s)
+➡️  Trecho 234: 80240660 → 82015110 | Vel: 56km/h | Dist: 5.4km | Tempo: 354s | Bateria: 44.1min
+   📸 Fotografando 82015110 (+72s)
+➡️  Trecho 235: 82015110 → 81310370 | Vel: 56km/h | Dist: 9.4km | Tempo: 616s | Bateria: 38.2min
+   📸 Fotografando 81310370 (+72s)
+➡️  Trecho 236: 81310370 → 81935050 | Vel: 52km/h | Dist: 8.9km | Tempo: 601s | Bateria: 28.0min
+   📸 Fotografando 81935050 (+72s)
+➡️  Trecho 237: 81935050 → 81150130 | Vel: 56km/h | Dist: 6.6km | Tempo: 438s | Bateria: 17.9min
+   📸 Fotografando 81150130 (+72s)
+➡️  Trecho 238: 81150130 → 80730270 | Vel: 52km/h | Dist: 8.5km | Tempo: 577s | Bateria: 10.7min
+   📸 Fotografando 80730270 (+72s)
+⚡ RECARGA em 80730270 - R$80,00
+➡️  Trecho 239: 80730270 → 81170370 | Vel: 36km/h | Dist: 8.7km | Tempo: 914s | Bateria: 77.5min
+   📸 Fotografando 81170370 (+72s)
+➡️  Trecho 240: 81170370 → 81480152 | Vel: 56km/h | Dist: 4.9km | Tempo: 328s | Bateria: 62.3min
+   📸 Fotografando 81480152 (+72s)
+➡️  Trecho 241: 81480152 → 82980600 | Vel: 48km/h | Dist: 16.5km | Tempo: 1085s | Bateria: 56.8min
+   📸 Fotografando 82980600 (+72s)
+➡️  Trecho 242: 82980600 → 82720240 | Vel: 56km/h | Dist: 12.0km | Tempo: 764s | Bateria: 38.7min
+   📸 Fotografando 82720240 (+72s)
+➡️  Trecho 243: 82720240 → 81030370 | Vel: 60km/h | Dist: 14.4km | Tempo: 937s | Bateria: 26.0min
+   📸 Fotografando 81030370 (+72s)
+➡️  Trecho 244: 81030370 → 81240490 | Vel: 60km/h | Dist: 6.1km | Tempo: 408s | Bateria: 10.4min
    📸 Fotografando 81240490 (+72s)
 ⚡ RECARGA em 81240490 - R$80,00
-➡️  Trecho 313: 81240490 → 81560250 | Vel: 36km/h | Dist: 11.9km | Tempo: 929s | Bateria: 77.5min
-   📸 Fotografando 81560250 (+72s)
-➡️  Trecho 314: 81560250 → 80010200 | Vel: 96km/h | Dist: 7.2km | Tempo: 284s | Bateria: 62.0min
-   📸 Fotografando 80010200 (+72s)
-➡️  Trecho 315: 80010200 → 81610020 | Vel: 96km/h | Dist: 4.1km | Tempo: 147s | Bateria: 57.3min
-   📸 Fotografando 81610020 (+72s)
-➡️  Trecho 316: 81610020 → 82100270 | Vel: 96km/h | Dist: 9.4km | Tempo: 352s | Bateria: 54.8min
-   📸 Fotografando 82100270 (+72s)
-➡️  Trecho 317: 82100270 → 81530380 | Vel: 96km/h | Dist: 9.0km | Tempo: 323s | Bateria: 49.0min
-   📸 Fotografando 81530380 (+72s)
-➡️  Trecho 318: 81530380 → 82620150 | Vel: 96km/h | Dist: 8.8km | Tempo: 310s | Bateria: 43.6min
-   📸 Fotografando 82620150 (+72s)
-➡️  Trecho 319: 82620150 → 80040150 | Vel: 96km/h | Dist: 4.9km | Tempo: 205s | Bateria: 38.4min
-   📸 Fotografando 80040150 (+72s)
-➡️  Trecho 320: 80040150 → 82640400 | Vel: 96km/h | Dist: 4.7km | Tempo: 166s | Bateria: 35.0min
-   📸 Fotografando 82640400 (+72s)
-➡️  Trecho 321: 82640400 → 81250720 | Vel: 96km/h | Dist: 15.3km | Tempo: 637s | Bateria: 32.2min
-   📸 Fotografando 81250720 (+72s)
-➡️  Trecho 322: 81250720 → 81490280 | Vel: 96km/h | Dist: 13.0km | Tempo: 500s | Bateria: 21.6min
-   📸 Fotografando 81490280 (+72s)
-➡️  Trecho 323: 81490280 → 81930367 | Vel: 96km/h | Dist: 6.6km | Tempo: 223s | Bateria: 13.3min
-   📸 Fotografando 81930367 (+72s)
-➡️  Trecho 324: 81930367 → 81260470 | Vel: 96km/h | Dist: 11.4km | Tempo: 445s | Bateria: 9.6min
-   📸 Fotografando 81260470 (+72s)
-⚡ RECARGA em 81260470 - R$80,00
-➡️  Trecho 325: 81260470 → 81570001 | Vel: 36km/h | Dist: 12.7km | Tempo: 982s | Bateria: 77.5min
-   📸 Fotografando 81570001 (+72s)
-➡️  Trecho 326: 81570001 → 81830300 | Vel: 96km/h | Dist: 6.1km | Tempo: 253s | Bateria: 61.1min
-   📸 Fotografando 81830300 (+72s)
-➡️  Trecho 327: 81830300 → 81480152 | Vel: 96km/h | Dist: 6.9km | Tempo: 292s | Bateria: 56.9min
-   📸 Fotografando 81480152 (+72s)
-➡️  Trecho 328: 81480152 → 81570360 | Vel: 96km/h | Dist: 12.2km | Tempo: 412s | Bateria: 52.0min
-   📸 Fotografando 81570360 (+72s)
-➡️  Trecho 329: 81570360 → 81510570 | Vel: 96km/h | Dist: 1.8km | Tempo: 68s | Bateria: 45.2min
-   📸 Fotografando 81510570 (+72s)
-➡️  Trecho 330: 81510570 → 82600070 | Vel: 96km/h | Dist: 9.8km | Tempo: 342s | Bateria: 44.0min
-   📸 Fotografando 82600070 (+72s)
-➡️  Trecho 331: 82600070 → 82600640 | Vel: 96km/h | Dist: 1.0km | Tempo: 40s | Bateria: 38.4min
-   📸 Fotografando 82600640 (+72s)
-➡️  Trecho 332: 82600640 → 82980520 | Vel: 96km/h | Dist: 8.5km | Tempo: 330s | Bateria: 37.7min
-   📸 Fotografando 82980520 (+72s)
-➡️  Trecho 333: 82980520 → 82310354 | Vel: 96km/h | Dist: 16.9km | Tempo: 661s | Bateria: 32.2min
-   📸 Fotografando 82310354 (+72s)
-➡️  Trecho 334: 82310354 → 80060170 | Vel: 96km/h | Dist: 9.2km | Tempo: 324s | Bateria: 21.2min
-   📸 Fotografando 80060170 (+72s)
-➡️  Trecho 335: 80060170 → 82130580 | Vel: 96km/h | Dist: 7.3km | Tempo: 262s | Bateria: 15.8min
-   📸 Fotografando 82130580 (+72s)
-➡️  Trecho 336: 82130580 → 82820460 | Vel: 96km/h | Dist: 8.3km | Tempo: 309s | Bateria: 11.4min
-   📸 Fotografando 82820460 (+72s)
-➡️  Trecho 337: 82820460 → 82720410 | Vel: 96km/h | Dist: 7.3km | Tempo: 260s | Bateria: 6.2min
-   📸 Fotografando 82720410 (+72s)
-⚡ RECARGA em 82720410 - R$80,00
-➡️  Trecho 338: 82720410 → 82315390 | Vel: 36km/h | Dist: 14.3km | Tempo: 1807s | Bateria: 77.5min
-   📸 Fotografando 82315390 (+72s)
-➡️  Trecho 339: 82315390 → 82720240 | Vel: 96km/h | Dist: 13.9km | Tempo: 486s | Bateria: 47.4min
-   📸 Fotografando 82720240 (+72s)
-➡️  Trecho 340: 82720240 → 81935474 | Vel: 96km/h | Dist: 20.7km | Tempo: 827s | Bateria: 39.3min
-   📸 Fotografando 81935474 (+72s)
-➡️  Trecho 341: 81935474 → 81200030 | Vel: 96km/h | Dist: 15.5km | Tempo: 572s | Bateria: 25.5min
-   📸 Fotografando 81200030 (+72s)
-➡️  Trecho 342: 81200030 → 81250482 | Vel: 96km/h | Dist: 5.9km | Tempo: 237s | Bateria: 16.0min
-   📸 Fotografando 81250482 (+72s)
-➡️  Trecho 343: 81250482 → 81480216 | Vel: 96km/h | Dist: 8.1km | Tempo: 321s | Bateria: 12.0min
-   📸 Fotografando 81480216 (+72s)
-⚡ RECARGA em 81480216 - R$80,00
-➡️  Trecho 344: 81480216 → 80820520 | Vel: 36km/h | Dist: 16.6km | Tempo: 1394s | Bateria: 77.5min
-   📸 Fotografando 80820520 (+72s)
-➡️  Trecho 345: 80820520 → 81170662 | Vel: 96km/h | Dist: 11.8km | Tempo: 477s | Bateria: 54.3min
-   📸 Fotografando 81170662 (+72s)
-➡️  Trecho 346: 81170662 → 81650050 | Vel: 96km/h | Dist: 8.7km | Tempo: 303s | Bateria: 46.3min
-   📸 Fotografando 81650050 (+72s)
-➡️  Trecho 347: 81650050 → 81470175 | Vel: 96km/h | Dist: 12.8km | Tempo: 522s | Bateria: 41.3min
-   📸 Fotografando 81470175 (+72s)
-➡️  Trecho 348: 81470175 → 81200390 | Vel: 96km/h | Dist: 14.9km | Tempo: 531s | Bateria: 32.6min
-   📸 Fotografando 81200390 (+72s)
-➡️  Trecho 349: 81200390 → 81450520 | Vel: 96km/h | Dist: 6.9km | Tempo: 275s | Bateria: 23.7min
-   📸 Fotografando 81450520 (+72s)
-➡️  Trecho 350: 81450520 → 81270220 | Vel: 96km/h | Dist: 4.1km | Tempo: 157s | Bateria: 19.1min
-   📸 Fotografando 81270220 (+72s)
-➡️  Trecho 351: 81270220 → 81510040 | Vel: 96km/h | Dist: 10.7km | Tempo: 361s | Bateria: 16.5min
-   📸 Fotografando 81510040 (+72s)
-➡️  Trecho 352: 81510040 → 81570092 | Vel: 96km/h | Dist: 2.0km | Tempo: 73s | Bateria: 10.5min
-   📸 Fotografando 81570092 (+72s)
-➡️  Trecho 353: 81570092 → 81920230 | Vel: 96km/h | Dist: 7.5km | Tempo: 290s | Bateria: 9.3min
-   📸 Fotografando 81920230 (+72s)
-⚡ RECARGA em 81920230 - R$80,00
-➡️  Trecho 354: 81920230 → 81330620 | Vel: 36km/h | Dist: 9.0km | Tempo: 1143s | Bateria: 77.5min
-   📸 Fotografando 81330620 (+72s)
-➡️  Trecho 355: 81330620 → 81030100 | Vel: 96km/h | Dist: 6.4km | Tempo: 217s | Bateria: 58.5min
-   📸 Fotografando 81030100 (+72s)
-➡️  Trecho 356: 81030100 → 81010170 | Vel: 96km/h | Dist: 0.7km | Tempo: 31s | Bateria: 54.8min
-   📸 Fotografando 81010170 (+72s)
-➡️  Trecho 357: 81010170 → 82410510 | Vel: 96km/h | Dist: 12.9km | Tempo: 504s | Bateria: 54.3min
+➡️  Trecho 245: 81240490 → 82410510 | Vel: 36km/h | Dist: 11.8km | Tempo: 1086s | Bateria: 77.5min
    📸 Fotografando 82410510 (+72s)
-➡️  Trecho 358: 82410510 → 82515190 | Vel: 96km/h | Dist: 10.4km | Tempo: 352s | Bateria: 45.9min
-   📸 Fotografando 82515190 (+72s)
-➡️  Trecho 359: 82515190 → 81260412 | Vel: 96km/h | Dist: 15.5km | Tempo: 640s | Bateria: 40.0min
-   📸 Fotografando 81260412 (+72s)
-➡️  Trecho 360: 81260412 → 82960518 | Vel: 96km/h | Dist: 15.8km | Tempo: 531s | Bateria: 29.4min
-   📸 Fotografando 82960518 (+72s)
-➡️  Trecho 361: 82960518 → 82930428 | Vel: 96km/h | Dist: 1.2km | Tempo: 47s | Bateria: 20.5min
-   📸 Fotografando 82930428 (+72s)
-➡️  Trecho 362: 82930428 → 82960488 | Vel: 96km/h | Dist: 1.3km | Tempo: 53s | Bateria: 19.8min
-   📸 Fotografando 82960488 (+72s)
-➡️  Trecho 363: 82960488 → 82920090 | Vel: 96km/h | Dist: 1.8km | Tempo: 67s | Bateria: 18.9min
+➡️  Trecho 246: 82410510 → 81935113 | Vel: 56km/h | Dist: 21.1km | Tempo: 1358s | Bateria: 59.4min
+   📸 Fotografando 81935113 (+72s)
+➡️  Trecho 247: 81935113 → 81320290 | Vel: 56km/h | Dist: 10.1km | Tempo: 669s | Bateria: 36.8min
+   📸 Fotografando 81320290 (+72s)
+➡️  Trecho 248: 81320290 → 82415070 | Vel: 52km/h | Dist: 12.3km | Tempo: 833s | Bateria: 25.6min
+   📸 Fotografando 82415070 (+72s)
+➡️  Trecho 249: 82415070 → 80030430 | Vel: 52km/h | Dist: 9.8km | Tempo: 630s | Bateria: 11.7min
+   📸 Fotografando 80030430 (+72s)
+⚡ RECARGA em 80030430 - R$80,00
+➡️  Trecho 250: 80030430 → 81610220 | Vel: 36km/h | Dist: 7.8km | Tempo: 820s | Bateria: 77.5min
+   📸 Fotografando 81610220 (+72s)
+➡️  Trecho 251: 81610220 → 82650320 | Vel: 48km/h | Dist: 12.3km | Tempo: 811s | Bateria: 63.8min
+   📸 Fotografando 82650320 (+72s)
+➡️  Trecho 252: 82650320 → 82650230 | Vel: 68km/h | Dist: 0.4km | Tempo: 23s | Bateria: 50.3min
+   📸 Fotografando 82650230 (+72s)
+➡️  Trecho 253: 82650230 → 82200216 | Vel: 60km/h | Dist: 2.7km | Tempo: 178s | Bateria: 49.9min
+   📸 Fotografando 82200216 (+72s)
+➡️  Trecho 254: 82200216 → 81920500 | Vel: 60km/h | Dist: 17.2km | Tempo: 1149s | Bateria: 47.0min
+   📸 Fotografando 81920500 (+72s)
+➡️  Trecho 255: 81920500 → 81010130 | Vel: 48km/h | Dist: 7.6km | Tempo: 512s | Bateria: 27.8min
+   📸 Fotografando 81010130 (+72s)
+➡️  Trecho 256: 81010130 → 80330120 | Vel: 60km/h | Dist: 3.8km | Tempo: 235s | Bateria: 19.3min
+   📸 Fotografando 80330120 (+72s)
+➡️  Trecho 257: 80330120 → 80250085 | Vel: 48km/h | Dist: 4.4km | Tempo: 289s | Bateria: 15.4min
+   📸 Fotografando 80250085 (+72s)
+➡️  Trecho 258: 80250085 → 81350686 | Vel: 60km/h | Dist: 8.2km | Tempo: 552s | Bateria: 10.6min
+   📸 Fotografando 81350686 (+72s)
+⚡ RECARGA em 81350686 - R$80,00
+➡️  Trecho 259: 81350686 → 82860400 | Vel: 36km/h | Dist: 18.6km | Tempo: 1589s | Bateria: 77.5min
+   📸 Fotografando 82860400 (+72s)
+➡️  Trecho 260: 82860400 → 80210400 | Vel: 60km/h | Dist: 8.3km | Tempo: 563s | Bateria: 51.0min
+   📸 Fotografando 80210400 (+72s)
+➡️  Trecho 261: 80210400 → 81200030 | Vel: 56km/h | Dist: 8.5km | Tempo: 563s | Bateria: 41.6min
+   📸 Fotografando 81200030 (+72s)
+➡️  Trecho 262: 81200030 → 81220090 | Vel: 60km/h | Dist: 2.7km | Tempo: 181s | Bateria: 32.2min
+   📸 Fotografando 81220090 (+72s)
+➡️  Trecho 263: 81220090 → 81470089 | Vel: 52km/h | Dist: 12.8km | Tempo: 871s | Bateria: 29.2min
+   📸 Fotografando 81470089 (+72s)
+➡️  Trecho 264: 81470089 → 81935437 | Vel: 64km/h | Dist: 8.1km | Tempo: 538s | Bateria: 14.7min
+   📸 Fotografando 81935437 (+72s)
+➡️  Trecho 265: 81935437 → 81880380 | Vel: 44km/h | Dist: 4.7km | Tempo: 320s | Bateria: 5.8min
+   📸 Fotografando 81880380 (+72s)
+⚡ RECARGA em 81880380 - R$80,00
+➡️  Trecho 266: 81880380 → 81280190 | Vel: 36km/h | Dist: 13.2km | Tempo: 1161s | Bateria: 77.5min
+   📸 Fotografando 81280190 (+72s)
+📅 Dia 6 - Continuando às 18:59
+➡️  Trecho 267: 81280190 → 82720410 | Vel: 60km/h | Dist: 15.8km | Tempo: 1016s | Bateria: 58.1min
+   📸 Fotografando 82720410 (+72s)
+➡️  Trecho 268: 82720410 → 82320460 | Vel: 52km/h | Dist: 13.4km | Tempo: 863s | Bateria: 41.2min
+   📸 Fotografando 82320460 (+72s)
+➡️  Trecho 269: 82320460 → 81110190 | Vel: 52km/h | Dist: 11.9km | Tempo: 810s | Bateria: 26.8min
+   📸 Fotografando 81110190 (+72s)
+➡️  Trecho 270: 81110190 → 81570001 | Vel: 56km/h | Dist: 6.7km | Tempo: 458s | Bateria: 13.3min
+   📸 Fotografando 81570001 (+72s)
+⚡ RECARGA em 81570001 - R$80,00
+➡️  Trecho 271: 81570001 → 82025060 | Vel: 36km/h | Dist: 11.9km | Tempo: 1182s | Bateria: 77.5min
+   📸 Fotografando 82025060 (+72s)
+➡️  Trecho 272: 82025060 → 80320110 | Vel: 52km/h | Dist: 6.2km | Tempo: 412s | Bateria: 57.8min
+   📸 Fotografando 80320110 (+72s)
+➡️  Trecho 273: 80320110 → 82710320 | Vel: 60km/h | Dist: 12.5km | Tempo: 799s | Bateria: 50.9min
+   📸 Fotografando 82710320 (+72s)
+➡️  Trecho 274: 82710320 → 80730450 | Vel: 52km/h | Dist: 8.9km | Tempo: 579s | Bateria: 37.6min
+   📸 Fotografando 80730450 (+72s)
+➡️  Trecho 275: 80730450 → 81280048 | Vel: 52km/h | Dist: 6.9km | Tempo: 454s | Bateria: 28.0min
+   📸 Fotografando 81280048 (+72s)
+➡️  Trecho 276: 81280048 → 80045265 | Vel: 56km/h | Dist: 11.4km | Tempo: 772s | Bateria: 20.4min
+   📸 Fotografando 80045265 (+72s)
+➡️  Trecho 277: 80045265 → 82130580 | Vel: 68km/h | Dist: 7.9km | Tempo: 428s | Bateria: 7.5min
+   📸 Fotografando 82130580 (+72s)
+⚡ RECARGA em 82130580 - R$80,00
+➡️  Trecho 278: 82130580 → 80410000 | Vel: 36km/h | Dist: 6.3km | Tempo: 586s | Bateria: 77.5min
+   📸 Fotografando 80410000 (+72s)
+➡️  Trecho 279: 80410000 → 82950220 | Vel: 60km/h | Dist: 7.9km | Tempo: 503s | Bateria: 67.7min
+   📸 Fotografando 82950220 (+72s)
+➡️  Trecho 280: 82950220 → 81450140 | Vel: 52km/h | Dist: 14.1km | Tempo: 892s | Bateria: 59.4min
+   📸 Fotografando 81450140 (+72s)
+➡️  Trecho 281: 81450140 → 82320220 | Vel: 56km/h | Dist: 10.6km | Tempo: 712s | Bateria: 44.5min
+   📸 Fotografando 82320220 (+72s)
+➡️  Trecho 282: 82320220 → 82510514 | Vel: 60km/h | Dist: 10.4km | Tempo: 676s | Bateria: 32.6min
+   📸 Fotografando 82510514 (+72s)
+➡️  Trecho 283: 82510514 → 82710330 | Vel: 56km/h | Dist: 6.9km | Tempo: 450s | Bateria: 21.4min
+   📸 Fotografando 82710330 (+72s)
+➡️  Trecho 284: 82710330 → 81020420 | Vel: 68km/h | Dist: 15.7km | Tempo: 799s | Bateria: 13.8min
+   📸 Fotografando 81020420 (+72s)
+⚡ RECARGA em 81020420 - R$80,00
+➡️  Trecho 285: 81020420 → 80530210 | Vel: 36km/h | Dist: 8.6km | Tempo: 937s | Bateria: 77.5min
+   📸 Fotografando 80530210 (+72s)
+➡️  Trecho 286: 80530210 → 82010390 | Vel: 48km/h | Dist: 6.3km | Tempo: 426s | Bateria: 61.9min
+   📸 Fotografando 82010390 (+72s)
+➡️  Trecho 287: 82010390 → 82400380 | Vel: 52km/h | Dist: 4.8km | Tempo: 322s | Bateria: 54.8min
+   📸 Fotografando 82400380 (+72s)
+➡️  Trecho 288: 82400380 → 81170755 | Vel: 56km/h | Dist: 13.8km | Tempo: 872s | Bateria: 49.4min
+   📸 Fotografando 81170755 (+72s)
+➡️  Trecho 289: 81170755 → 82920090 | Vel: 60km/h | Dist: 14.5km | Tempo: 931s | Bateria: 34.9min
    📸 Fotografando 82920090 (+72s)
-➡️  Trecho 364: 82920090 → 80440090 | Vel: 96km/h | Dist: 8.6km | Tempo: 363s | Bateria: 17.8min
-   📸 Fotografando 80440090 (+72s)
-➡️  Trecho 365: 80440090 → 82990150 | Vel: 96km/h | Dist: 9.9km | Tempo: 336s | Bateria: 11.7min
-   📸 Fotografando 82990150 (+72s)
-➡️  Trecho 366: 82990150 → 80045340 | Vel: 96km/h | Dist: 6.3km | Tempo: 260s | Bateria: 6.1min
-   📸 Fotografando 80045340 (+72s)
-⚡ RECARGA em 80045340 - R$80,00
-➡️  Trecho 367: 80045340 → 81945040 | Vel: 36km/h | Dist: 20.6km | Tempo: 2187s | Bateria: 77.5min
-   📸 Fotografando 81945040 (+72s)
-➡️  Trecho 368: 81945040 → 82220133 | Vel: 96km/h | Dist: 25.6km | Tempo: 936s | Bateria: 41.0min
-   📸 Fotografando 82220133 (+72s)
-➡️  Trecho 369: 82220133 → 81490010 | Vel: 96km/h | Dist: 28.1km | Tempo: 1088s | Bateria: 25.4min
-   📸 Fotografando 81490010 (+72s)
-⚡ RECARGA em 81490010 - R$80,00
-➡️  Trecho 370: 81490010 → 81710300 | Vel: 36km/h | Dist: 15.9km | Tempo: 1321s | Bateria: 77.5min
-   📸 Fotografando 81710300 (+72s)
-➡️  Trecho 371: 81710300 → 80010010 | Vel: 96km/h | Dist: 8.1km | Tempo: 306s | Bateria: 55.5min
+➡️  Trecho 290: 82920090 → 82810220 | Vel: 56km/h | Dist: 1.8km | Tempo: 119s | Bateria: 19.4min
+   📸 Fotografando 82810220 (+72s)
+➡️  Trecho 291: 82810220 → 81550240 | Vel: 52km/h | Dist: 4.6km | Tempo: 306s | Bateria: 17.4min
+   📸 Fotografando 81550240 (+72s)
+➡️  Trecho 292: 81550240 → 82025101 | Vel: 64km/h | Dist: 12.8km | Tempo: 712s | Bateria: 12.3min
+   📸 Fotografando 82025101 (+72s)
+⚡ RECARGA em 82025101 - R$80,00
+➡️  Trecho 293: 82025101 → 82100270 | Vel: 36km/h | Dist: 2.6km | Tempo: 293s | Bateria: 77.5min
+   📸 Fotografando 82100270 (+72s)
+➡️  Trecho 294: 82100270 → 82130470 | Vel: 60km/h | Dist: 3.1km | Tempo: 197s | Bateria: 72.6min
+   📸 Fotografando 82130470 (+72s)
+➡️  Trecho 295: 82130470 → 82560040 | Vel: 56km/h | Dist: 2.9km | Tempo: 194s | Bateria: 69.3min
+   📸 Fotografando 82560040 (+72s)
+➡️  Trecho 296: 82560040 → 81590210 | Vel: 52km/h | Dist: 11.8km | Tempo: 797s | Bateria: 66.1min
+   📸 Fotografando 81590210 (+72s)
+➡️  Trecho 297: 81590210 → 82320230 | Vel: 56km/h | Dist: 16.9km | Tempo: 1070s | Bateria: 52.8min
+   📸 Fotografando 82320230 (+72s)
+➡️  Trecho 298: 82320230 → 82310354 | Vel: 52km/h | Dist: 3.1km | Tempo: 201s | Bateria: 35.0min
+   📸 Fotografando 82310354 (+72s)
+➡️  Trecho 299: 82310354 → 81610090 | Vel: 56km/h | Dist: 12.5km | Tempo: 820s | Bateria: 31.6min
+   📸 Fotografando 81610090 (+72s)
+➡️  Trecho 300: 81610090 → 81460239 | Vel: 52km/h | Dist: 11.0km | Tempo: 711s | Bateria: 18.0min
+   📸 Fotografando 81460239 (+72s)
+⚡ RECARGA em 81460239 - R$80,00
+➡️  Trecho 301: 81460239 → 81520290 | Vel: 36km/h | Dist: 12.3km | Tempo: 1388s | Bateria: 77.5min
+   📸 Fotografando 81520290 (+72s)
+➡️  Trecho 302: 81520290 → 81540160 | Vel: 68km/h | Dist: 2.5km | Tempo: 149s | Bateria: 54.4min
+   📸 Fotografando 81540160 (+72s)
+➡️  Trecho 303: 81540160 → 81550430 | Vel: 60km/h | Dist: 2.9km | Tempo: 181s | Bateria: 51.9min
+   📸 Fotografando 81550430 (+72s)
+➡️  Trecho 304: 81550430 → 81935317 | Vel: 52km/h | Dist: 9.6km | Tempo: 605s | Bateria: 48.9min
+   📸 Fotografando 81935317 (+72s)
+➡️  Trecho 305: 81935317 → 81940210 | Vel: 48km/h | Dist: 2.2km | Tempo: 139s | Bateria: 38.8min
+   📸 Fotografando 81940210 (+72s)
+➡️  Trecho 306: 81940210 → 80710350 | Vel: 56km/h | Dist: 14.3km | Tempo: 899s | Bateria: 36.5min
+   📸 Fotografando 80710350 (+72s)
+➡️  Trecho 307: 80710350 → 82515190 | Vel: 64km/h | Dist: 8.8km | Tempo: 559s | Bateria: 21.5min
+   📸 Fotografando 82515190 (+72s)
+➡️  Trecho 308: 82515190 → 81590340 | Vel: 56km/h | Dist: 10.1km | Tempo: 672s | Bateria: 12.2min
+   📸 Fotografando 81590340 (+72s)
+⚡ RECARGA em 81590340 - R$80,00
+➡️  Trecho 309: 81590340 → 81130270 | Vel: 36km/h | Dist: 10.0km | Tempo: 820s | Bateria: 77.5min
+   📸 Fotografando 81130270 (+72s)
+➡️  Trecho 310: 81130270 → 81450350 | Vel: 48km/h | Dist: 5.1km | Tempo: 332s | Bateria: 63.8min
+   📸 Fotografando 81450350 (+72s)
+➡️  Trecho 311: 81450350 → 81452040 | Vel: 56km/h | Dist: 1.2km | Tempo: 75s | Bateria: 58.3min
+   📸 Fotografando 81452040 (+72s)
+➡️  Trecho 312: 81452040 → 81200400 | Vel: 56km/h | Dist: 7.4km | Tempo: 487s | Bateria: 57.0min
+   📸 Fotografando 81200400 (+72s)
+➡️  Trecho 313: 81200400 → 80010010 | Vel: 64km/h | Dist: 7.6km | Tempo: 492s | Bateria: 48.9min
    📸 Fotografando 80010010 (+72s)
-➡️  Trecho 372: 80010010 → 82030020 | Vel: 96km/h | Dist: 6.0km | Tempo: 249s | Bateria: 50.4min
+➡️  Trecho 314: 80010010 → 80050440 | Vel: 64km/h | Dist: 2.8km | Tempo: 178s | Bateria: 40.7min
+   📸 Fotografando 80050440 (+72s)
+➡️  Trecho 315: 80050440 → 80320140 | Vel: 48km/h | Dist: 6.4km | Tempo: 424s | Bateria: 37.8min
+   📸 Fotografando 80320140 (+72s)
+➡️  Trecho 316: 80320140 → 81900560 | Vel: 56km/h | Dist: 8.6km | Tempo: 574s | Bateria: 30.7min
+   📸 Fotografando 81900560 (+72s)
+➡️  Trecho 317: 81900560 → 81210070 | Vel: 52km/h | Dist: 12.0km | Tempo: 779s | Bateria: 21.1min
+   📸 Fotografando 81210070 (+72s)
+⚡ RECARGA em 81210070 - R$80,00
+➡️  Trecho 318: 81210070 → 82930428 | Vel: 36km/h | Dist: 12.5km | Tempo: 2130s | Bateria: 77.5min
+   📸 Fotografando 82930428 (+72s)
+📅 Dia 7 - Continuando às 18:42
+➡️  Trecho 319: 82930428 → 82600070 | Vel: 60km/h | Dist: 7.3km | Tempo: 465s | Bateria: 42.0min
+   📸 Fotografando 82600070 (+72s)
+➡️  Trecho 320: 82600070 → 81910230 | Vel: 48km/h | Dist: 16.3km | Tempo: 1095s | Bateria: 34.2min
+   📸 Fotografando 81910230 (+72s)
+➡️  Trecho 321: 81910230 → 81910030 | Vel: 52km/h | Dist: 0.9km | Tempo: 59s | Bateria: 16.0min
+   📸 Fotografando 81910030 (+72s)
+➡️  Trecho 322: 81910030 → 80010200 | Vel: 60km/h | Dist: 9.6km | Tempo: 617s | Bateria: 15.0min
+   📸 Fotografando 80010200 (+72s)
+➡️  Trecho 323: 80010200 → 81820330 | Vel: 92km/h | Dist: 7.5km | Tempo: 280s | Bateria: 4.7min
+   📸 Fotografando 81820330 (+72s)
+⚡ RECARGA em 81820330 - R$80,00
+➡️  Trecho 324: 81820330 → 82015640 | Vel: 36km/h | Dist: 12.9km | Tempo: 1352s | Bateria: 77.5min
+   📸 Fotografando 82015640 (+72s)
+➡️  Trecho 325: 82015640 → 80820650 | Vel: 60km/h | Dist: 3.1km | Tempo: 205s | Bateria: 55.0min
+   📸 Fotografando 80820650 (+72s)
+➡️  Trecho 326: 80820650 → 81200160 | Vel: 48km/h | Dist: 2.6km | Tempo: 177s | Bateria: 51.5min
+   📸 Fotografando 81200160 (+72s)
+➡️  Trecho 327: 81200160 → 82210230 | Vel: 60km/h | Dist: 8.0km | Tempo: 535s | Bateria: 48.6min
+   📸 Fotografando 82210230 (+72s)
+➡️  Trecho 328: 82210230 → 80045340 | Vel: 52km/h | Dist: 5.3km | Tempo: 353s | Bateria: 39.7min
+   📸 Fotografando 80045340 (+72s)
+➡️  Trecho 329: 80045340 → 81925567 | Vel: 52km/h | Dist: 14.0km | Tempo: 888s | Bateria: 33.8min
+   📸 Fotografando 81925567 (+72s)
+➡️  Trecho 330: 81925567 → 82630290 | Vel: 72km/h | Dist: 20.9km | Tempo: 1127s | Bateria: 19.0min
+   📸 Fotografando 82630290 (+72s)
+⚡ RECARGA em 82630290 - R$80,00
+➡️  Trecho 331: 82630290 → 82640710 | Vel: 36km/h | Dist: 2.7km | Tempo: 241s | Bateria: 77.5min
+   📸 Fotografando 82640710 (+72s)
+➡️  Trecho 332: 82640710 → 80710390 | Vel: 48km/h | Dist: 9.5km | Tempo: 612s | Bateria: 73.5min
+   📸 Fotografando 80710390 (+72s)
+➡️  Trecho 333: 80710390 → 80310110 | Vel: 48km/h | Dist: 3.2km | Tempo: 208s | Bateria: 63.3min
+   📸 Fotografando 80310110 (+72s)
+➡️  Trecho 334: 80310110 → 81490360 | Vel: 48km/h | Dist: 15.0km | Tempo: 997s | Bateria: 59.8min
+   📸 Fotografando 81490360 (+72s)
+➡️  Trecho 335: 81490360 → 81770140 | Vel: 64km/h | Dist: 11.6km | Tempo: 744s | Bateria: 43.2min
+   📸 Fotografando 81770140 (+72s)
+➡️  Trecho 336: 81770140 → 81260350 | Vel: 52km/h | Dist: 11.6km | Tempo: 761s | Bateria: 30.8min
+   📸 Fotografando 81260350 (+72s)
+➡️  Trecho 337: 81260350 → 80540140 | Vel: 64km/h | Dist: 12.7km | Tempo: 818s | Bateria: 18.1min
+   📸 Fotografando 80540140 (+72s)
+➡️  Trecho 338: 80540140 → 82640400 | Vel: 64km/h | Dist: 3.5km | Tempo: 222s | Bateria: 4.5min
+   📸 Fotografando 82640400 (+72s)
+⚡ RECARGA em 82640400 - R$80,00
+➡️  Trecho 339: 82640400 → 81510160 | Vel: 36km/h | Dist: 8.7km | Tempo: 746s | Bateria: 77.5min
+   📸 Fotografando 81510160 (+72s)
+➡️  Trecho 340: 81510160 → 81470346 | Vel: 48km/h | Dist: 16.5km | Tempo: 1061s | Bateria: 65.1min
+   📸 Fotografando 81470346 (+72s)
+➡️  Trecho 341: 81470346 → 81030100 | Vel: 64km/h | Dist: 12.5km | Tempo: 802s | Bateria: 47.4min
+   📸 Fotografando 81030100 (+72s)
+➡️  Trecho 342: 81030100 → 81260210 | Vel: 48km/h | Dist: 8.0km | Tempo: 536s | Bateria: 34.0min
+   📸 Fotografando 81260210 (+72s)
+➡️  Trecho 343: 81260210 → 81110240 | Vel: 60km/h | Dist: 6.5km | Tempo: 417s | Bateria: 25.1min
+   📸 Fotografando 81110240 (+72s)
+➡️  Trecho 344: 81110240 → 81935303 | Vel: 52km/h | Dist: 6.4km | Tempo: 415s | Bateria: 18.1min
+   📸 Fotografando 81935303 (+72s)
+➡️  Trecho 345: 81935303 → 81750280 | Vel: 68km/h | Dist: 5.1km | Tempo: 338s | Bateria: 11.2min
+   📸 Fotografando 81750280 (+72s)
+➡️  Trecho 346: 81750280 → 81590270 | Vel: 72km/h | Dist: 5.2km | Tempo: 321s | Bateria: 5.6min
+   📸 Fotografando 81590270 (+72s)
+⚡ RECARGA em 81590270 - R$80,00
+➡️  Trecho 347: 81590270 → 81590578 | Vel: 36km/h | Dist: 1.0km | Tempo: 84s | Bateria: 77.5min
+   📸 Fotografando 81590578 (+72s)
+➡️  Trecho 348: 81590578 → 81710300 | Vel: 44km/h | Dist: 6.2km | Tempo: 403s | Bateria: 76.1min
+   📸 Fotografando 81710300 (+72s)
+➡️  Trecho 349: 81710300 → 80610300 | Vel: 60km/h | Dist: 4.9km | Tempo: 303s | Bateria: 69.4min
+   📸 Fotografando 80610300 (+72s)
+➡️  Trecho 350: 80610300 → 81070000 | Vel: 44km/h | Dist: 2.0km | Tempo: 123s | Bateria: 64.3min
+   📸 Fotografando 81070000 (+72s)
+➡️  Trecho 351: 81070000 → 81930367 | Vel: 48km/h | Dist: 10.0km | Tempo: 666s | Bateria: 62.3min
+   📸 Fotografando 81930367 (+72s)
+➡️  Trecho 352: 81930367 → 81170762 | Vel: 52km/h | Dist: 7.8km | Tempo: 529s | Bateria: 51.2min
+   📸 Fotografando 81170762 (+72s)
+➡️  Trecho 353: 81170762 → 82030020 | Vel: 68km/h | Dist: 13.5km | Tempo: 851s | Bateria: 42.4min
    📸 Fotografando 82030020 (+72s)
-➡️  Trecho 373: 82030020 → 81330220 | Vel: 96km/h | Dist: 10.2km | Tempo: 388s | Bateria: 46.2min
+➡️  Trecho 354: 82030020 → 82520095 | Vel: 60km/h | Dist: 8.0km | Tempo: 539s | Bateria: 28.2min
+   📸 Fotografando 82520095 (+72s)
+➡️  Trecho 355: 82520095 → 82220142 | Vel: 60km/h | Dist: 5.0km | Tempo: 319s | Bateria: 19.2min
+   📸 Fotografando 82220142 (+72s)
+➡️  Trecho 356: 82220142 → 81610020 | Vel: 48km/h | Dist: 11.4km | Tempo: 731s | Bateria: 13.9min
+   📸 Fotografando 81610020 (+72s)
+⚡ RECARGA em 81610020 - R$80,00
+➡️  Trecho 357: 81610020 → 82820300 | Vel: 36km/h | Dist: 8.7km | Tempo: 1409s | Bateria: 77.5min
+   📸 Fotografando 82820300 (+72s)
+➡️  Trecho 358: 82820300 → 81230560 | Vel: 44km/h | Dist: 15.6km | Tempo: 960s | Bateria: 54.0min
+   📸 Fotografando 81230560 (+72s)
+➡️  Trecho 359: 81230560 → 81480141 | Vel: 48km/h | Dist: 10.8km | Tempo: 685s | Bateria: 38.0min
+   📸 Fotografando 81480141 (+72s)
+➡️  Trecho 360: 81480141 → 81330400 | Vel: 64km/h | Dist: 7.6km | Tempo: 513s | Bateria: 26.6min
+   📸 Fotografando 81330400 (+72s)
+➡️  Trecho 361: 81330400 → 81330220 | Vel: 52km/h | Dist: 1.0km | Tempo: 63s | Bateria: 18.1min
    📸 Fotografando 81330220 (+72s)
-➡️  Trecho 374: 81330220 → 82821020 | Vel: 96km/h | Dist: 13.8km | Tempo: 470s | Bateria: 39.8min
+➡️  Trecho 362: 81330220 → 81480216 | Vel: 44km/h | Dist: 8.4km | Tempo: 556s | Bateria: 17.0min
+   📸 Fotografando 81480216 (+72s)
+➡️  Trecho 363: 81480216 → 81470370 | Vel: 44km/h | Dist: 2.2km | Tempo: 135s | Bateria: 7.7min
+   📸 Fotografando 81470370 (+72s)
+➡️  Trecho 364: 81470370 → 81470340 | Vel: 48km/h | Dist: 0.2km | Tempo: 13s | Bateria: 5.5min
+   📸 Fotografando 81470340 (+72s)
+⚡ RECARGA em 81470340 - R$80,00
+➡️  Trecho 365: 81470340 → 81450410 | Vel: 36km/h | Dist: 9.0km | Tempo: 1252s | Bateria: 77.5min
+   📸 Fotografando 81450410 (+72s)
+➡️  Trecho 366: 81450410 → 81460235 | Vel: 48km/h | Dist: 3.6km | Tempo: 225s | Bateria: 56.6min
+   📸 Fotografando 81460235 (+72s)
+➡️  Trecho 367: 81460235 → 81270220 | Vel: 64km/h | Dist: 8.0km | Tempo: 523s | Bateria: 52.9min
+   📸 Fotografando 81270220 (+72s)
+➡️  Trecho 368: 81270220 → 81450195 | Vel: 44km/h | Dist: 4.5km | Tempo: 295s | Bateria: 44.2min
+   📸 Fotografando 81450195 (+72s)
+➡️  Trecho 369: 81450195 → 81560250 | Vel: 68km/h | Dist: 13.6km | Tempo: 879s | Bateria: 39.2min
+   📸 Fotografando 81560250 (+72s)
+➡️  Trecho 370: 81560250 → 80040150 | Vel: 60km/h | Dist: 8.4km | Tempo: 563s | Bateria: 24.6min
+   📸 Fotografando 80040150 (+72s)
+➡️  Trecho 371: 80040150 → 80620370 | Vel: 44km/h | Dist: 4.9km | Tempo: 299s | Bateria: 15.2min
+   📸 Fotografando 80620370 (+72s)
+➡️  Trecho 372: 80620370 → 81020150 | Vel: 44km/h | Dist: 3.3km | Tempo: 203s | Bateria: 10.2min
+   📸 Fotografando 81020150 (+72s)
+➡️  Trecho 373: 81020150 → 81170065 | Vel: 44km/h | Dist: 4.3km | Tempo: 261s | Bateria: 6.8min
+   📸 Fotografando 81170065 (+72s)
+⚡ RECARGA em 81170065 - R$80,00
+➡️  Trecho 374: 81170065 → 82821020 | Vel: 36km/h | Dist: 14.3km | Tempo: 2572s | Bateria: 77.5min
    📸 Fotografando 82821020 (+72s)
 ✅ SIMULAÇÃO CONCLUÍDA
-   Dias utilizados: 4
-   Pousos para recarga: 78
-   Custo total: R$ 3440.00
-   Tempo total: 2921.2 min
+   Dias utilizados: 7
+   Pousos para recarga: 50
+   Custo total: R$ 560.00
+   Tempo total: 3816.1 min
